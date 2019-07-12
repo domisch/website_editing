@@ -22,9 +22,7 @@ Key aspects in terms of feasibility and an open science strategy are: (i) all re
 The Leibniz-Junior Research Group is co-funded by the Leibniz-Institute of Freshwater Ecology and Inland Fisheries in Berlin, Germany.
 
 
-[<img align="left" src="/img/Leibniz_Competition_funded_neu.png" width="25%" alt="Leibniz">](https://www.leibniz-gemeinschaft.de/en.html) [<img align="right" src="/img/IGB_Logo_typoEN_2014_rgb.png" width="30%" alt="IGB">](https://www.igb-berlin.de/en)
+
+<img src="/img/about_logos.png" width="80%" alt="logos">
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
----

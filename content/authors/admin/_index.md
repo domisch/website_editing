@@ -11,12 +11,13 @@ authors:
 superuser: false
 
 # Role/position
-role: Junior Research Group Leader
-
+role: Junior Research Group Leader 
 # Organizations/Affiliations
 organizations: 
-- name: Leibniz-Institute of Freshwater Ecology and Inland Fisheries
-  url: "https://www.igb-berlin.de"
+- name: Leibniz-Institute of Freshwater Ecology and Inland Fisheries 
+  url: "https://www.igb-berlin.de"   
+
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -95,7 +96,12 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 - Member of Editorial Advisory Board: _Limnologica, Global Change Biology (2014-2017)_ <br/>
 - Funding agency: Natural Sciences and Engineering Research Council of Canada (NSERC) <br/>
 - Journal referee: _Ecological Indicators, Biology Letters, Biological Invasions, Integrative Zoology, Biological Conservation, Methods in Ecology & Evolution, Ecological Engineering, Nature Scientific Reports, PLoS ONE, Ecography, Ecological Applications, Limnetica, Limnologica - Ecology and Management of Inland Waters, Global Ecology and Conservation, Naturwissenschaften, Marine Ecology Progress Series, Journal of Applied Ecology, Freshwater Biology, Journal of Environmental Management, Knowledge and Management of Aquatic Ecosystems, Journal of Biogeography, Hydrobiologia, Aquatic Sciences, Ecological Modelling, Freshwater Science, Diversity and Distributions, Global Ecology and Biogeography, Fundamental and Applied Limnology (Guest Editor), Global Change Biology (Advisory Board member 2013-2017)_ <br/>
-<br/>
+
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-8127-9335" href="https://orcid.org/0000-0002-8127-9335" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-8127-9335</a></div>
+
+
+
 
 ---
 
