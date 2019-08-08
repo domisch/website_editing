@@ -1,5 +1,5 @@
 ---
-date: "2019-07-01T00:00:00+02:00"
+date: "2019-08-02T00:00:00+02:00"
 draft: false
 menu:
   data_code:
@@ -19,5 +19,18 @@ Here is a collection of code and tutorials for spatial analyses in freshwater ec
 - [A quick guide of using open-source GIS tools using the Linux command-line](/data_code/open-source-gis)
 - [Bayesian hierarchical species distribution models](/data_code/bayesian-species-distribution-models)
 
- If you have any questions or noticed any bugs in the code please [drop us a line](mailto:domisch@igb-berlin.de).
+If you have any questions or noticed any bugs in the code please [drop us a line](mailto:domisch@igb-berlin.de).
+
+
+
+---
+
+
+Some more useful tools and websites:
+
+- [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, Jannes Muenchow
+- [Spatial Data Science with R](https://rspatial.org/) by Robert J. Hijmans
+- [Species distribution modeling in R](https://cran.r-project.org/web/packages/dismo/vignettes/sdm.pdf) using the [dismo](https://cran.r-project.org/web/packages/dismo/) R-package (maintained by Robert J. Hijmans, Steven Phillips, John Leathwick and Jane Elith)
+- [Species’ Distribution Modeling for Conservation Educators and Practitioners](https://www.amnh.org/content/download/141368/2285424/file/LinC3_SpeciesDistModeling.pdf) by Richard G. Pearson
+- [Spatial-Ecology](http://spatial-ecology.net/) providing training in open-source software for geospatial data processing
 

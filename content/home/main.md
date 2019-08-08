@@ -49,8 +49,6 @@ subtitle = "Leibniz-Junior Research Group led by Sami Domisch"
  css_class = ""
 
 
-# We are located at the Leibniz-Institute of Freshwater Ecology and Inland Fisheries in Berlin, Germany.
-
 
 +++
 

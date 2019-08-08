@@ -12,7 +12,7 @@ subtitle = "Meet the team members"
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Researchers"]
 
-date = "2019-07-01T00:00:00+02:00"
+date = "2019-08-05T00:00:00+02:00"
 
 
 +++
@@ -26,9 +26,19 @@ date = "2019-07-01T00:00:00+02:00"
 
 <br/><br/>
 
+{{% figure src="/authors/jaime-garcia-marquez/avatar.jpg#floatleft"  width="150" height="150"  alt="jaime"  %}} 
 
-We will introduce more faces in August ;-)
+[__Dr. Jaime Garcia Marquez__](/authors/jaime-garcia-marquez/) is a GIS Data Analyst with a strong emphasis in open-source methods & tools for analysing large biodiversity data sets using the Linux command-line.
 
+
+<br/><br/>
+
+{{% figure src="/authors/martin-friedrichs/avatar.jpg#floatleft"  width="150" height="150"  alt="jaime"  %}} 
+
+[__Martin Friedrichs__](https://martinfriedrichs.de/) is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/index.php/home.html) and co-supervised by Sami) 
+
+
+<br/><br/><br/><br/>
 
 [//]: #__Visitors__
 [//]: #<br/><br/>
@@ -36,11 +46,12 @@ We will introduce more faces in August ;-)
 __Collaborators__
 
 - [Giuseppe Amatulli](https://environment.yale.edu/profile/giuseppe-amatulli)
-- [Walter Jetz](https://jetzlab.yale.edu/people/walter-jetz)
+- [Jens Kiesel](https://www.igb-berlin.de/en/profile/jens-kiesel)
+- [Longzhu Shen](https://www.conservation.cam.ac.uk/directory/dr-longzhu-shen)
 - [Jani Heino](https://janiheino.weebly.com/)
+- [Walter Jetz](https://jetzlab.yale.edu/people/walter-jetz)
 - [Virgilio Hermoso](http://www.ctfc.cat/personal_det.php?id=168)
 - [Mathias Kuemmerlen](https://scholar.google.com/citations?user=7ffWGfYAAAAJ&hl=en)
-- [Jens Kiesel](https://www.igb-berlin.de/en/profile/jens-kiesel)
 - [Simone Langhans](https://www.bc3research.org/index.php?option=com_researcher&task=view&rese=133&Itemid=345)
 - [Rita Adrian](https://www.igb-berlin.de/en/profile/rita-adrian)
 - [Sonja J&auml;hnig](https://www.igb-berlin.de/en/profile/sonja-jahnig)

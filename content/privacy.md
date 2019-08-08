@@ -1,11 +1,11 @@
 ---
-date: "2018-06-28T00:00:00+02:00"
+date: "2018-08-02T00:00:00+02:00"
 draft: false
 share: false
 title: Privacy policy and legal notes
 ---
 
-Effective date: July 01, 2019
+Effective date: August 02, 2019
 
 <br/>
 
@@ -15,35 +15,11 @@ The Leibniz Junior Research Group (Leibniz Competition grant number J45/2018), a
 
 We want to inform you of our policies regarding the collection and use of personal data when you use our website and the choices you have associated with that data. All data on this website are processed based on the current laws and regulations (General Data Protection Regulation; GDPR).
 
-We use your data to provide and improve the website. By using the website, you agree to the collection and use of information in accordance with this policy. 
+By using the website, you agree to the collection and use of information in accordance with this policy. 
 
 __Information collection and use__
 
-We collect anonymized information to provide and improve our website to you.
-
-_Analytics_
-
-We employ the third-party company [Clicky](https://clicky.com) to assist us in analyzing how our website is used. Clicky is a web analytics service and you can read the Privacy Policy for Clicky here: https://clicky.com/terms. Such third parties have access to your personal data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-
-Clicky uses Session Cookies to track the activity on our website and hold certain information. 
-
-Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our website.
-
-Clicky values the privacy of visitors to web sites monitored by its service. By default, Clicky does not log any personal data, other than a tracking cookie containing a randomly generated Unique ID ("UID"); IP addresses are anonymized (the last number is replaced with a '0'), and global opt out cookies are honored.
-
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our website.
-
-We use the collected data for various purposes:
-
-- To maintain the website
-- To allow you to participate in interactive features of our website when you choose to do so
-- To monitor the usage of the website
-- To detect, prevent and address technical issues
-
-
-_Storage of data_
-
-All collected and stored information is deleted automatically after 30 days. 
+We do not employ cookies or collect any personal information of visitors. We note that GitHub Pages, i.e. the hosting service of our site, may collect information which is however not managed and can not be accessed by us. Please see the [GitHub Privacy Statement](https://help.github.com/en/articles/github-privacy-statement) for more information. 
 
 
 _Links To Other Sites_
