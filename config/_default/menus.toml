@@ -29,7 +29,34 @@
   name = "Research"
   url = "/project/"
   weight = 50
+  #parent = "project"
   identifier = "project"
+
+[[main]]
+  name = "All topics"
+  url = "/project/"
+  parent = "project"
+
+
+[[main]]
+  name = "Habitat regionalization"
+  url = "/project/glowabio_habitats/"
+  parent = "project"
+
+  [[main]]
+  name = "Biodiversity patterns"
+  url = "/project/glowabio_biodiversity/"
+  parent = "project"
+
+  [[main]]
+  name = "Conservation planning"
+  url = "/project/glowabio_conservation/"
+  parent = "project"
+
+
+
+
+
 
 [[main]]
   name = "Publications"
