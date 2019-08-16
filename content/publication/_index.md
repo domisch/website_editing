@@ -3,7 +3,12 @@ header:
   caption: ""
   image: "publications.png"
 title: "Publications"
-view: 4 #2, 4
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view: 4
 widgets: true
 type: "widget_page"
 ---
