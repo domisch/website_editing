@@ -12,10 +12,9 @@ links:
 slides: example-slides
 summary: Clustering the world's freshwater habitats
 tags:
-- Machine Learning
 - Clustering
 - Regionalization
-- Deep Learning
+
 title: Freshwater habitat regionalization
 url_code: ""
 url_pdf: ""
