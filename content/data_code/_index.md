@@ -33,4 +33,6 @@ Some more useful tools and websites:
 - [Species distribution modeling in R](https://cran.r-project.org/web/packages/dismo/vignettes/sdm.pdf) using the [dismo](https://cran.r-project.org/web/packages/dismo/) R-package (maintained by Robert J. Hijmans, Steven Phillips, John Leathwick and Jane Elith)
 - [Species’ Distribution Modeling for Conservation Educators and Practitioners](https://www.amnh.org/content/download/141368/2285424/file/LinC3_SpeciesDistModeling.pdf) by Richard G. Pearson
 - [Spatial-Ecology](http://spatial-ecology.net/) providing training in open-source software for geospatial data processing
+- [Spatial Modeling on Stream Networks (SSN)](https://cran.r-project.org/web/packages/SSN/index.html) by Jay Ver Hoef and Erin Peterson
+- [openSTARS](https://cran.r-project.org/web/packages/openSTARS/index.html): the open-source version for preparing the data for the SSN-package by Mira Kattwinkel
 
