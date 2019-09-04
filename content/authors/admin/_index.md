@@ -84,7 +84,7 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 ---
 
 ##### __Funding and awards__ <br/>
-- Leibniz Association and IGB: Leibniz Junior Research Group "Global freshwater biodiversity, biogeography and conservation (GLOWABIO)" (J45/2018), started in May 2019 <br/>
+- Leibniz Association and IGB: Leibniz Junior Research Group "Global freshwater biodiversity, biogeography and conservation (GLOWABIO)" (J45/2018), started in 2019 <br/>
 - German Research Foundation (DFG): Co-PI for grant 'Himalopsyche/QTP Region' (DO 1880_3-2) <br/>
 - Federal Ministry of Education and Research (BMBF): Co-authored the proposal for grant 'WANDEL' (GROW-937-3583-018; Co-PIs: S. Jähnig, M. Pusch)
 - German Research Foundation (DFG): 2-year Postdoctoral fellowship at Yale University, USA (DO 1880_1-1) <br/>
