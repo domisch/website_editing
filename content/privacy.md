@@ -13,13 +13,13 @@ This site provides information regarding the Privacy Policy and Legal Notes in c
 
 The Leibniz Junior Research Group (Leibniz Competition grant number J45/2018), also named "us", "we", or "our" in this Privacy Policy, operates the https://glowabio.org website.
 
-We want to inform you of our policies regarding the collection and use of personal data when you use our website and the choices you have associated with that data. All data on this website are processed based on the current laws and regulations (General Data Protection Regulation; GDPR).
+We want to inform you of our policies regarding the use of personal data when you visit our website and the choices you have associated with that data. All data on this website are processed based on the current laws and regulations (General Data Protection Regulation; GDPR).
 
 By using the website, you agree to the collection and use of information in accordance with this policy. 
 
 __Information collection and use__
 
-We do not employ cookies or collect any personal information of visitors. We note that GitHub Pages, i.e. the hosting service of our site, may collect information which is however not managed and can not be accessed by us. Please see the [GitHub Privacy Statement](https://help.github.com/en/articles/github-privacy-statement) for more information. 
+We do not employ cookies or collect any personal information of visitors, and we do not have access to the IP addresses or other server logfiles of visitors. We note, however, that GitHub Pages, i.e. the hosting service of our site with its headquarter in San Francisco, California, USA, may collect information about visitors. This information is however not managed by us, nor can it be accessed by us. Please see the [GitHub Privacy Statement](https://help.github.com/en/articles/github-privacy-statement) for more information. 
 
 
 _Links To Other Sites_
@@ -40,15 +40,11 @@ While we strive for accuracy, we make no guarantees, warranties and / or other r
 
 __Changes to this Privacy Policy and the Legal Notes__
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-We will let you know via a prominent notice on our website, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via a prominent notice on our website, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 __Your rights__
 
-You have the right to get information, ask for correction or request deletion of your personal data which we might have stored any time. You can contact us if you have questions concerning your personal data and our data privacy policy via the person and contact details named below.
+You have the right to get information, ask for correction or request deletion of any of your personal data which we might have stored any time. You can contact us if you have questions concerning your personal data and our data privacy policy via the person and contact details named below.
 
 
 __Contact us__
