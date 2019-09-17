@@ -20,7 +20,7 @@ We constantly seek possible collaborations regarding interesting projects, novel
 __Join the group?__
 
 Interested in joining the group? We are looking for motivated candidates across the Master, PhD and Postdoc levels.
-If you are interested please [drop us a line](mailto:domisch@igb-berlin.de) indicating your reserach interests & plans and we can discuss how to move things further and possibly seek for funding opportunities. 
+If you are interested please [drop us a line](mailto:domisch@igb-berlin.de) indicating your research interests & plans and we can discuss how to move things further and possibly seek for funding opportunities. 
 
 
 {{% alert note %}}
