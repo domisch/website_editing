@@ -23,22 +23,26 @@ date = "2019-08-05T00:00:00+02:00"
 
 [__Dr. Sami Domisch__](/authors/admin/) is a Junior Research Group Leader and is interested in freshwater biodiversity and developing tools in spatial freshwater biodiversity science. 
 
-
 <br/><br/>
 
 {{% figure src="/authors/jaime-garcia-marquez/avatar.jpg#floatleft"  width="150" height="150"  alt="jaime"  %}} 
 
 [__Dr. Jaime Garcia Marquez__](/authors/jaime-garcia-marquez/) is a GIS Data Analyst with a strong emphasis in open-source methods & tools for analysing large biodiversity data sets using the Linux command-line.
 
-
 <br/><br/>
 
-{{% figure src="/authors/martin-friedrichs/avatar.jpg#floatleft"  width="150" height="150"  alt="jaime"  %}} 
+{{% figure src="/authors/martin-friedrichs/avatar.jpg#floatleft"  width="150" height="150"  alt="martin"  %}} 
 
 [__Martin Friedrichs__](https://martinfriedrichs.de/) is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/index.php/home.html) and co-supervised by Sami) 
 
+<br/><br/>
 
-<br/><br/><br/><br/>
+{{% figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="150" height="150"  alt="xiling"  %}} 
+
+[__Xiling Deng__](https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/) is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients. 
+
+
+<br/><br/><br/>
 
 [//]: #__Visitors__
 [//]: #<br/><br/>
