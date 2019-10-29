@@ -127,7 +127,7 @@ mkdir $HOME/.grass7/addons/scripts
 wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds "http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds"
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
 
-wget -O $HOME/.grass7/addons/scripts/r.stream.variables "http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds"
+wget -O $HOME/.grass7/addons/scripts/r.stream.variables "http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.variables"
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
 ```
 
@@ -139,7 +139,7 @@ r.stream.watersheds stream=stream_sub  drainage=drainage_sub  cpu=2
 
 Add-on 2: Create stream-specific variables based on elevation
 ```
-r.stream.variables  drainage=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
+r.stream.variables  variable=elevation  output=cells,min,max,range,mean,stddev,coeff_var,sum  area=watershed  scale=1  cpu=2
 ```
 
 Rename the “elevation_cells” to “flow_accumulation” and check variables:
@@ -151,7 +151,7 @@ r.info  elevation_range
 
 Get stream length (similar procedure as above):
 ```
-r.stream.variables  drainage=elevation  output=cells  area=stream  scale=1  cpu=2
+r.stream.variables  variable=elevation  output=cells  area=stream  scale=1  cpu=2
 r.mapcalc "stream_length = elevation_cells"  --o
 r.info  stream_length 
 ```
@@ -161,14 +161,14 @@ Calculate the amount of rainfall within the basin:
 wget -O  $INDIR/prec_16_tif.zip  "http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/tiles/cur/prec_16_tif.zip"
 unzip -q  -o $INDIR/prec_16_tif.zip  -d  $INDIR/prec
 r.in.gdal input=$INDIR/prec/prec6_16.tif   output=prec6   # rainfall in June
-r.stream.variables  drainage=prec6  output=sum  area=watershed  scale=1  cpu=2
+r.stream.variables  variable=prec6  output=sum  area=watershed  scale=1  cpu=2
 ```
 
 Run all 12 months in a loop:
 ```
 for var in $(seq 1 12); do
 r.in.gdal input=$INDIR/prec/prec${var}_16.tif   output=prec$var
-r.stream.variables  drainage=prec$var  output=sum  area=watershed  scale=1  cpu=2
+r.stream.variables  variable=prec$var  output=sum  area=watershed  scale=1  cpu=2
 done
 ```
 
