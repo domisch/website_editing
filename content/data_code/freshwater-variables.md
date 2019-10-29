@@ -178,30 +178,30 @@ __Other examples__
 
 Get the stream order:
 ```
-r.stream.order  stream_rast=stream_sub   direction=drainage_sub   strahler=str_order  --o
+r.stream.order  stream_rast=stream   direction=drainage   strahler=str_order  --o
 ```
 
 Get only streams and basins >=3rd order
 ```
 r.mapcalc "str_order_3rd = if(str_order >=3, str_order, null() ) "  --o
-r.stream.basins  direction=drainage_sub  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
+r.stream.basins  direction=drainage  stream_rast=str_order_3rd  basins=basins_3rd_last   -l  --o
 ```
 
 Stream distance - Calculates distance to and elevation above streams and outlet
 ```
 g.extension extension=r.stream.distance
-r.stream.distance   stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
+r.stream.distance   stream_rast=stream   direction=drainage   elevation=elevation_cond  method=downstream   distance=str_distance    difference=str_elevation_diff  --o
 ```
 
 Stream order statistics - Calculates Horton's statistics for Strahler and Horton ordered networks created with r.stream.order Print only order statistics:
 ```
-r.stream.stats  stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  output=str_stats_o.txt    -o   
+r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_o.txt    -o   
 more $INDIR/str_stats_o.txt
 ```
 
 Print only catchment statistics:
 ```
-r.stream.stats  stream_rast=stream_sub   direction=drainage_sub   elevation=elevation_cond  output=str_stats_c.txt    -c 
+r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
 more $INDIR/str_stats_c.txt
 ```
 
