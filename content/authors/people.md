@@ -62,6 +62,6 @@ __Collaborators__
 - [Peter Haase](http://www.senckenberg.de/root/index.php?page_id=4350&PHPSESSID=clqiqvn5v5f6s16dci24nrgmu3&abteilungID=26&institutID=1)
 - [Daniel Hering](https://www.uni-due.de/aquatic_ecology/staff/hering.shtml)
 - [Eren Turak](https://www.researchgate.net/profile/Eren_Turak)
-
+- [Francisco Valente Neto](https://www.researchgate.net/profile/Francisco_Valente_Neto)
 
 <br/><br/>
