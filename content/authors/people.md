@@ -63,5 +63,8 @@ __Collaborators__
 - [Daniel Hering](https://www.uni-due.de/aquatic_ecology/staff/hering.shtml)
 - [Eren Turak](https://www.researchgate.net/profile/Eren_Turak)
 - [Francisco Valente Neto](https://www.researchgate.net/profile/Francisco_Valente_Neto)
+- [Leandro Juen](https://www.researchgate.net/profile/Leandro_Juen)
+- [Ana Paula Justino de Faria](http://lattes.cnpq.br/6041546003155327)
+- [Karina Dias Silva](https://www.researchgate.net/profile/Karina_Dias-Silva2)
 
 <br/><br/>
