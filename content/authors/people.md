@@ -67,5 +67,8 @@ __Collaborators__
 - [Ana Paula Justino de Faria](http://lattes.cnpq.br/6041546003155327)
 - [Karina Dias Silva](https://www.researchgate.net/profile/Karina_Dias-Silva2)
 - [Russell Death](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=978130)
+- [Anna Astorga](https://www.researchgate.net/profile/Anna_Astorga)
+- [Jonathan Tonkin](https://tonkinlab.org/)
+- [Fabio de Oliveira Roque Roque](https://www.researchgate.net/profile/Fabio_Roque2)
 
 <br/><br/>
