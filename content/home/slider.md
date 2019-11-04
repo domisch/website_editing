@@ -15,19 +15,6 @@ interval = 4500
 # Duplicate an `[[item]]` block to add more slides.
 
 
-[[item]]
-  title = "Conservation planning"
-  content = "Spatially explicit species distribution models improve the spatial prioritization"
-  align = "center"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/gurobi_delta.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
- cta_label = "Read the paper here"
-  cta_url = "https://onlinelibrary.wiley.com/doi/10.1111/ddi.12891"
-  cta_icon_pack = "fas"
-
 
 
 
@@ -49,6 +36,24 @@ interval = 4500
   cta_url = "https://arxiv.org/abs/1905.00501"
   cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
+
+
+
+
+
+[[item]]
+  title = "Conservation planning"
+  content = "Spatially explicit species distribution models improve the spatial prioritization"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/gurobi_delta.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+ cta_label = "Read the paper here"
+  cta_url = "https://onlinelibrary.wiley.com/doi/10.1111/ddi.12891"
+  cta_icon_pack = "fas"
+
 
 
 

@@ -56,5 +56,5 @@ The new Leibniz-Junior Research Group emphasizes novel approaches in spatial fre
 
 
 {{% alert note %}}
-__What do you think are the most pressing research questions that need to be answered for freshwater biodiversity? Please submit and share your questions here: https://s.surveyplanet.com/fH1seZJ__
+We will have two PhD student positions opening soon with an envisaged start in 2020 - please check back later for details. 
 {{% /alert %}}
