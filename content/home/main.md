@@ -52,7 +52,7 @@ subtitle = "Leibniz-Junior Research Group led by Sami Domisch"
 
 +++
 
-The new Leibniz-Junior Research Group emphasizes novel approaches in spatial freshwater biodiversity science, to gain a more detailed overview in the distriution of freshwater habitats, biodiversity patterns, and link these with conservation planning. [Read more...](/post) 
+The new Leibniz-Junior Research Group emphasizes novel approaches in spatial freshwater biodiversity science, to gain a more detailed overview in the distribution of freshwater habitats, biodiversity patterns, and link these with conservation planning. [Read more...](/post) 
 
 
 {{% alert note %}}

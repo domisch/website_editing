@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "Get in touch if you are interested in collaborating with us."
+subtitle = "Please get in touch if you are interested in collaborating with us."
 
 date = "2019-07-01T00:00:00+02:00"
 
@@ -19,8 +19,8 @@ We constantly seek possible collaborations regarding interesting projects, novel
 
 __Join the group?__
 
-Interested in joining the group? We are looking for motivated candidates across the Master, PhD and Postdoc levels.
-If you are interested please [drop us a line](mailto:domisch@igb-berlin.de) indicating your research interests & plans and we can discuss how to move things further and possibly seek for funding opportunities. 
+Are you interested in joining the group? We are looking for motivated candidates across the Master, PhD and Postdoc levels.
+If you are interested please [drop us a line](mailto:domisch@igb-berlin.de) indicating your research interests & plans and we can discuss how to move things further and seek for possible funding opportunities. 
 
 
 {{% alert note %}}
