@@ -70,5 +70,7 @@ __Collaborators__
 - [Anna Astorga](https://www.researchgate.net/profile/Anna_Astorga)
 - [Jonathan Tonkin](https://tonkinlab.org/)
 - [Fabio de Oliveira Roque Roque](https://www.researchgate.net/profile/Fabio_Roque2)
+- [Ram Devi Tachamo Shah](https://scholar.google.de/citations?user=Fvb1caYAAAAJ&hl=en)
+- [Deep Narayan Shah](https://scholar.google.com/citations?user=5lx_mfkAAAAJ&hl=en)
 
 <br/><br/>
