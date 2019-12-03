@@ -17,40 +17,40 @@
 
 [[main]]
   name = "About"
-  url = "https://glowabio.org/post"  # url = "/post
+  url = "/post"  # url = "/post  #https://glowabio.org
   weight = 30
 
 [[main]]
   name = "People"
-  url = "https://glowabio.org/authors/people" # /authors/people
+  url = "/authors/people" # /authors/people
   weight = 40
 
 [[main]]
   name = "Research"
-  url = "https://glowabio.org/project/" # /project/
+  url = "/project/" # /project/
   weight = 50
   #parent = "project"
   identifier = "project"
 
 [[main]]
   name = "All topics"
-  url = "https://glowabio.org/project/" # /project/
+  url = "/project/" # /project/
   parent = "project"
 
 
 [[main]]
   name = "Habitat regionalization"
-  url = "https://glowabio.org/project/glowabio_habitats/"
+  url = "/project/glowabio_habitats/"
   parent = "project"
 
   [[main]]
   name = "Biodiversity patterns"
-  url = "https://glowabio.org/project/glowabio_biodiversity/" # /project/glowabio_biodiversity/
+  url = "/project/glowabio_biodiversity/" # /project/glowabio_biodiversity/
   parent = "project"
 
   [[main]]
   name = "Conservation planning"
-  url = "https://glowabio.org/project/glowabio_conservation/" # /project/glowabio_conservation/
+  url = "/project/glowabio_conservation/" # /project/glowabio_conservation/
   parent = "project"
 
 
@@ -60,19 +60,19 @@
 
 [[main]]
   name = "Publications"
-  url = "https://glowabio.org/publication/"
+  url = "/publication/"
   weight = 60
 
 [[main]]
   name = "Data & Code"
-  url = "https://glowabio.org/data_code/"
+  url = "/data_code/"
   weight = 70
   identifier = "data_code"
  
 
 [[main]]
   name = "Contact"
-  url = "https://glowabio.org/contact"
+  url = "/contact"
   weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
