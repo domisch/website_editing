@@ -35,10 +35,11 @@ enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
+languageName = "English"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
-paginate = 10  # Number of items per page in paginated lists.
+paginate = 12  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -82,7 +83,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
-#  author = "authors"
+author = "Sami Domisch"
 
 
 # Disable all relevant services in Hugo
