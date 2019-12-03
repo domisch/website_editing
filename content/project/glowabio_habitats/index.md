@@ -9,7 +9,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: 
-slides: example-slides
+#  slides: example-slides
 summary: Clustering the world's freshwater habitats
 tags:
 - Clustering

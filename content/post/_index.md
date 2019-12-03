@@ -23,6 +23,6 @@ The Leibniz-Junior Research Group is co-funded by the Leibniz-Institute of Fresh
 
 
 
-<img src="/img/about_logos.png" width="80%" alt="logos">
+<img src="/img/about_logos.png" width="80%" alt="GLOWABIO logos">
 
 
