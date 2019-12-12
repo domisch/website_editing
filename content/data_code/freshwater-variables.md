@@ -61,10 +61,19 @@ unzip  -o $INDIR/alt_16_tif.zip  -d  $INDIR/dem
 gdalinfo $INDIR/dem/alt_16.tif        # check data
 ```
 
+If needed, first install the latest GRASS GIS version:
+
+```
+sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+sudo add-apt-repository ppa:grass/grass-devel
+sudo apt-get update
+sudo apt-get install  grass  grass-gui gdal-bin libgdal-grass grass-dev subversion
+```
+
 Create the GRASS GIS data base and enter GRASS:
 
 ```
-grass74  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
+grass78  -text -c $INDIR/dem/alt_16.tif  $INDIR/grass_location
 ```
 
 Read data into GRASS:
@@ -82,7 +91,7 @@ g.gui wxpython
 Run hydrological conditioning:
 ```
 g.extension  extension=r.hydrodem # download extension
-# if you get an error run: sudo apt install grass-dev
+# if you get an error run: sudo apt install grass-dev subversion
 r.hydrodem  input=elevation  output=elevation_cond
 ```
 
@@ -121,13 +130,13 @@ __Create stream-specific variables, and limit the calculation only to a single b
 
 Download and install the GRASS add-ons:
 
-Work-around (November 2018) for grass74:
+Work-around (December 2019) for grass78:
 ```
 mkdir $HOME/.grass7/addons/scripts
-wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds "http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.watersheds"
+wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds "https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds"
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.watersheds
 
-wget -O $HOME/.grass7/addons/scripts/r.stream.variables "http://www.spatial-ecology.net/ost4sem/exercise/basic_adv_grass/r.stream.variables"
+wget -O $HOME/.grass7/addons/scripts/r.stream.variables "https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.variables"
 chmod 777  $HOME/.grass7/addons/scripts/r.stream.variables
 ```
 
