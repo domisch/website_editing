@@ -67,7 +67,7 @@ If needed, first install the latest GRASS GIS version:
 sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
 sudo add-apt-repository ppa:grass/grass-devel
 sudo apt-get update
-sudo apt-get install  grass  grass-gui gdal-bin libgdal-grass grass-dev subversion
+sudo apt-get install grass grass-gui grass-dev subversion gdal-bin libgdal-grass libalgorithms1 libbase1 libgdal-dev
 ```
 
 Create the GRASS GIS data base and enter GRASS:
