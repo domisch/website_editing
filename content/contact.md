@@ -24,7 +24,7 @@ If you are interested please [drop us a line](mailto:domisch@igb-berlin.de) indi
 
 
 {{% alert note %}}
-We will have two PhD student positions opening soon with an envisaged start in 2020 - please check back later for details.
+We have two open PhD student positions in [Spatial Freshwater Biodiversity](https://karriere-igb.softgarden.io/job/5680955/PhD-student-m-f-d-in-Spatial-Freshwater-Biodiversity?jobDbPVId=15549960&l=en) and [Spatial Freshwater Conservation Planning](https://karriere-igb.softgarden.io/job/5681125/PhD-student-m-f-d-in-Spatial-Freshwater-Conservation-Planning?jobDbPVId=15550020&l=en). Get in touch for more details and apply online!
 {{% /alert %}}
 
 <br/>
