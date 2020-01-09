@@ -37,6 +37,11 @@ date = "2019-08-05T00:00:00+02:00"
 
 <br/><br/>
 
+{{% figure src="/authors/annika-brunner/avatar.jpg#floatleft"  width="150" height="150"  alt="martin"  %}} 
+
+[__Annika Brunner__](/authors/annika-brunner/) is a Master Student at Freie Universität Berlin and an intern at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). 
+
+<br/><br/>
 {{% figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="150" height="150"  alt="xiling"  %}} 
 
 [__Xiling Deng__](https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/) is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients. 
