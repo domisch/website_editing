@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Intern
+role: Master Student
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz-Institute of Freshwater Ecology and Inland Fisheries 
@@ -68,7 +68,7 @@ user_groups:
 ---
 
 
-Annika Brunner is a Master Student at Freie Universität Berlin and an intern at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). 
+Annika Brunner is a Master Student at Freie Universität Berlin and an intern at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Annika is investigating how the characteristics of species occurrence data impact freshwater species distribution models.
 
 
 ---

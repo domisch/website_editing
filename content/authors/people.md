@@ -37,9 +37,15 @@ date = "2019-08-05T00:00:00+02:00"
 
 <br/><br/>
 
-{{% figure src="/authors/annika-brunner/avatar.jpg#floatleft"  width="150" height="150"  alt="martin"  %}} 
+{{% figure src="/authors/annika-brunner/avatar.jpg#floatleft"  width="150" height="150"  alt="annika"  %}} 
 
-[__Annika Brunner__](/authors/annika-brunner/) is a Master Student at Freie Universität Berlin and an intern at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). 
+[__Annika Brunner__](/authors/annika-brunner/) is a Master Student at Freie Universität Berlin and an intern at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/).  Annika is investigating how the characteristics of species occurrence data impact freshwater species distribution models. 
+
+<br/><br/>
+
+{{% figure src="/authors/thomas-tomiczek/avatar.jpg#floatleft"  width="150" height="150"  alt="thomas"  %}} 
+
+[__Thomas Tomiczek__](/authors/thomas-tomiczek/) is a Master student from the Humboldt University working on his Master thesis at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). His thesis addresses integrating freshwater biodiversity in large scale conservation planning in Colombia. 
 
 <br/><br/>
 {{% figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="150" height="150"  alt="xiling"  %}} 
