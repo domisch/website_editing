@@ -32,8 +32,8 @@ interval = 4500
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Read more on arXiv"
-  cta_url = "https://arxiv.org/abs/1905.00501"
+  cta_label = "Read the paper"
+  cta_url = "https://www.nature.com/articles/s41467-019-14108-y"
   cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 
