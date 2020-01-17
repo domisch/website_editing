@@ -1,6 +1,6 @@
 +++
 title = "Elevation, aspect, and local environment jointly determine diatom and macroinvertebrate diversity in the Hengduan Mountains region"
-date = "2019-05-01"
+date = "2020-01-01"
 authors = ["He, F.", "Wu, N.", "Dong, X.", "Tang, T.", "__Domisch, S.__", "Cai, Q.", "J&auml;hnig, S.C"]
 publication_types = ["2"]
 publication = "_Ecological Indicators_, https://doi.org/10.1016/j.ecolind.2019.105618"
