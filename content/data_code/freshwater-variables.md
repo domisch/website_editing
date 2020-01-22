@@ -128,9 +128,7 @@ r.out.gdal  input=stream_sub     output=$INDIR/stream_sub.tif    type=Int32  nod
 
 __Create stream-specific variables, and limit the calculation only to a single basin.__
 
-Download and install the GRASS add-ons:
-
-Work-around (December 2019) for grass78:
+Download and install the GRASS add-ons. Work-around (December 2019) for grass78:
 ```
 mkdir $HOME/.grass7/addons/scripts
 wget -O $HOME/.grass7/addons/scripts/r.stream.watersheds "https://raw.githubusercontent.com/domisch/grass-addons/master/r.stream.watersheds"
@@ -218,7 +216,7 @@ more $INDIR/str_stats_c.txt
 <br/>
 _See also these useful GRASS-GIS commands for hydrological applications:_
 
-https://grass.osgeo.org/grass74/manuals/topic_hydrology.html 
+https://grass.osgeo.org/grass78/manuals/topic_hydrology.html
 https://grasswiki.osgeo.org/wiki/R.stream.*_modules <br/>
 https://grasswiki.osgeo.org/wiki/Hydrological_Sciences 
 
