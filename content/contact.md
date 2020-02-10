@@ -23,10 +23,6 @@ Are you interested in joining the group? We are looking for motivated candidates
 If you are interested please [drop us a line](mailto:domisch@igb-berlin.de) indicating your research interests & plans and we can discuss how to move things further and seek for possible funding opportunities. 
 
 
-{{% alert note %}}
-We have two open PhD student positions in [Spatial Freshwater Biodiversity](https://karriere-igb.softgarden.io/job/5680955/PhD-student-m-f-d-in-Spatial-Freshwater-Biodiversity?jobDbPVId=15549960&l=en) and [Spatial Freshwater Conservation Planning](https://karriere-igb.softgarden.io/job/5681125/PhD-student-m-f-d-in-Spatial-Freshwater-Conservation-Planning?jobDbPVId=15550020&l=en). Get in touch for more details and apply online!
-{{% /alert %}}
-
 <br/>
 We use, beside R, largely open-source (command-line) GIS tools within the Linux environment that facilitate handling and analyzing large datasets (see also some of the tools [here](/data_code/open-source-gis)). We consider a good understanding, or alternatively, a great motivation to learn such tools & techniques as a prerequisite to join the group.
 

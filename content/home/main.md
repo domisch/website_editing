@@ -54,7 +54,3 @@ subtitle = "Leibniz-Junior Research Group led by Sami Domisch"
 
 The new Leibniz-Junior Research Group emphasizes novel approaches in spatial freshwater biodiversity science, to gain a more detailed overview in the distribution of freshwater habitats, biodiversity patterns, and link these with conservation planning. [Read more...](/post) 
 
-
-{{% alert note %}}
-We have two open PhD student positions in [Spatial Freshwater Biodiversity](https://karriere-igb.softgarden.io/job/5680955/PhD-student-m-f-d-in-Spatial-Freshwater-Biodiversity?jobDbPVId=15549960&l=en) and [Spatial Freshwater Conservation Planning](https://karriere-igb.softgarden.io/job/5681125/PhD-student-m-f-d-in-Spatial-Freshwater-Conservation-Planning?jobDbPVId=15550020&l=en). Get in touch for more details and apply online!
-{{% /alert %}}
