@@ -39,7 +39,7 @@ subtitle = "Leibniz-Junior Research Group led by Sami Domisch"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["80px", "0", "20px", "0"] 
+  padding = ["100px", "0", "100px", "0"] 
 
 [advanced]
  # Custom CSS. 
