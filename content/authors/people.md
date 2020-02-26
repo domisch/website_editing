@@ -19,41 +19,46 @@ date = "2019-08-05T00:00:00+02:00"
 
 
 
-{{% figure src="/authors/admin/avatar.jpg#floatleft"  width="150" height="150"  alt="sami"  %}}
+{{< figure src="/authors/admin/avatar.jpg#floatleft"  width="130" height="130"  alt="sami"  >}}
+[__Dr. Sami Domisch__](/authors/admin/) is a Leibniz-Junior Research Group Leader and is interested in freshwater biodiversity and biogeography across spatial scales, and in developing tools in spatial freshwater biodiversity science. 
 
-[__Dr. Sami Domisch__](/authors/admin/) is a Junior Research Group Leader and is interested in freshwater biodiversity and developing tools in spatial freshwater biodiversity science. 
-
-<br/><br/>
-
-{{% figure src="/authors/jaime-garcia-marquez/avatar.jpg#floatleft"  width="150" height="150"  alt="jaime"  %}} 
-
-[__Dr. Jaime Garcia Marquez__](/authors/jaime-garcia-marquez/) is a GIS Data Analyst with a strong emphasis in open-source methods & tools for analysing large biodiversity data sets using the Linux command-line.
 
 <br/><br/>
 
-{{% figure src="/authors/martin-friedrichs/avatar.jpg#floatleft"  width="150" height="150"  alt="martin"  %}} 
+
+{{< figure src="/authors/jaime-garcia-marquez/avatar.jpg#floatleft"  width="130" height="130"  alt="jaime"  >}} 
+[__Dr. Jaime Garcia Marquez__](/authors/jaime-garcia-marquez/) is a GIS Data Analyst with a strong emphasis in open-source methods & tools for analysing large biodiversity data sets using the Linux command-line and the High Performance Computing cluster.
+
+
+<br/><br/>
+
+
+
+{{< figure src="/authors/martin-friedrichs-manthay/avatar.jpg#floatleft"  width="130" height="130"  alt="martin"  >}} 
 
 [__Martin Friedrichs-Manthay__](https://martinfriedrichs.de/) is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/index.php/home.html) and co-supervised by Sami) 
 
 <br/><br/>
 
-{{% figure src="/authors/annika-brunner/avatar.jpg#floatleft"  width="150" height="150"  alt="annika"  %}} 
-
-[__Annika Brunner__](/authors/annika-brunner/) is a Master Student at Freie Universität Berlin and an intern at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/).  Annika is investigating how the characteristics of species occurrence data impact freshwater species distribution models. 
+{{< figure src="/authors/annika-brunner/avatar.jpg#floatleft"  width="130" height="140"  alt="annika"  >}} 
+[__Annika Brunner__](/authors/annika-brunner/) is a Master Student at Freie Universität Berlin and an intern at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). She investigates how species occurrence data impacts freshwater species distribution models. 
 
 <br/><br/>
 
-{{% figure src="/authors/thomas-tomiczek/avatar.jpg#floatleft"  width="150" height="150"  alt="thomas"  %}} 
-
+{{< figure src="/authors/thomas-tomiczek/avatar.jpg#floatleft"  width="130" height="130"  alt="thomas"  >}} 
 [__Thomas Tomiczek__](/authors/thomas-tomiczek/) is a Master student from the Humboldt University working on his Master thesis at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). His thesis addresses integrating freshwater biodiversity in large scale conservation planning in Colombia. 
 
-<br/><br/>
-{{% figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="150" height="150"  alt="xiling"  %}} 
+<br/><br/><br/><br/><br/>
 
+{{< figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="130" height="130"  alt="xiling"  >}} 
 [__Xiling Deng__](https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/) is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients. 
 
 
-<br/><br/><br/>
+
+
+<br/><br/><br/><br/><br/>
+
+***
 
 [//]: #__Visitors__
 [//]: #<br/><br/>
