@@ -24,18 +24,19 @@ bio:
 
 interests:
 - Freshwater biodiversity
+- Macroecology
 - Conservation planning
 - Biodiversity informatics
 
 education:
   courses:
-  - course: PhD in Biology
+  - course: Doctoral studies (Dr. phil. nat) in Biology
     institution: University Frankfurt, and Senckenberg / BiK-F, Germany
     year: 2009-2012
-  - course: MSc in Biology, Marine Biodiversity
+  - course: MSc in Biology (Diplom), Marine Biodiversity
     institution: University Oldenburg, Germany and Alfred-Wegener-Institute for Polar and Marine Research (AWI) Helgoland, Germany
     year: 2005-2009
-  - course: BSc in Biology
+  - course: BSc in Biology (Vordiplom)
     institution: University Kaiserlautern, Germany
     year: 2001-2005
 
