@@ -54,7 +54,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
 	angledQuotes = false
 	latexDashes = true
-  extensions = ["backslashLineBreak"]
+  #extensions = ["backslashLineBreak"]
+  extensions = ["hardLineBreak"]
 
 # relref for internal links
 #{{- if in (.Get 0) "/_index.md" -}}

@@ -11,6 +11,7 @@ subtitle = "Please get in touch if you are interested in collaborating with us."
 date = "2019-07-01T00:00:00+02:00"
 
 
+
 +++
 
 We constantly seek possible collaborations regarding interesting projects, novel methods, data, and publications in spatial freshwater biodiversity science and beyond. Please do not hesitate to [contact us](mailto:domisch@igb-berlin.de) to discuss further details.
@@ -30,14 +31,15 @@ We use, beside R, largely open-source (command-line) GIS tools within the Linux 
 ---
 _Contact information:_
 
-Dr. Sami Domisch <br/>
-Leibniz-Institute of Freshwater Ecology and Inland Fisheries <br/>
-Department of Ecosystem Research <br/>
-Justus-von-Liebig-Str. 7 <br/>
-D-12489 Berlin <br/>
-Germany <br/>
+Dr. Sami Domisch  
+Leibniz-Institute of Freshwater Ecology and Inland Fisheries  
+Department of Ecosystem Research  
+Justus-von-Liebig-Str. 7  
+D-12489 Berlin  
+Germany  
 
-E-mail: domisch@igb-berlin.de <br/>
-Phone: +49 (0) 30 6392 4079
+E-mail: domisch@igb-berlin.de  
+Phone: +49 (0) 30 6392 4079  
 
-[//]: #comment 
+[//]: #comment
+
