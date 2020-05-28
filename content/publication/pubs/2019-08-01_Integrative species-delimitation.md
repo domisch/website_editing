@@ -1,6 +1,6 @@
 +++
 title = "Integrative species-delimitation: testing the efficacy of the multispecies coalescent model in the Greenthroat Darter complex (Etheostoma lepidum)"
-date = "2020-02-01"
+date = "2020-08-01"
 authors = ["MacGuigan, D.J.", "Hoagstrom, C.W.", "__Domisch, S.__", "Hulsey, C.D.", "Near, T.J."]
 publication_types = ["3"]
 publication = "under review"

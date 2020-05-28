@@ -1,6 +1,6 @@
 +++
 title = "Safeguarding Freshwater Life Beyond 2020: Recommendations for the New Global Biodiversity Framework from the European Experience"
-date = "2020-02-02"
+date = "2020-08-02"
 authors = ["van Rees, C.B.", "Waylen, K." , "Schmidt-Kloiber, A.", "Thackeray, S." , "Kalinkat, G.", "Martens, K.", "__Domisch, S.__", "Lillebø, A.I.", "Hermoso, V.",  "Grossart, H.-P.", "Schinegger, R.", "Decleer, K.", "Adriaens, T.", "Denys, L.", "Jarić, I.", "Monaghan, M.T.", "Janse, J.", "De Wever, A.", "Geijzendorffer, I.", "Adamescu, M.", "J&auml;hnig, S.C"]
 publication_types = ["3"]
 publication = "_Preprints_, https://doi.org/10.20944/preprints202001.0212.v1"
