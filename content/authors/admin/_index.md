@@ -85,6 +85,7 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 ---
 
 ##### __Funding and awards__ <br/>
+- Alexander von Humboldt Foundation: Co-host for Dr. Torres-Cambas' grant “Protecting the future of freshwater biodiversity and ecosystem services across Cuba” 
 - Leibniz Association and IGB: Leibniz Junior Research Group "Global freshwater biodiversity, biogeography and conservation (GLOWABIO)" (J45/2018), started in 2019 <br/>
 - German Research Foundation (DFG): Co-PI for grant 'Himalopsyche/QTP Region' (DO 1880_3-2) <br/>
 - Federal Ministry of Education and Research (BMBF): Co-authored the proposal for grant 'WANDEL' (GROW-937-3583-018; Co-PIs: S. Jähnig, M. Pusch)
@@ -96,7 +97,7 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 ##### __Reviewer activities__ <br/>
 - Member of Editorial Advisory Board: _Limnologica, Global Change Biology (2014-2017)_ <br/>
 - Funding agency: Natural Sciences and Engineering Research Council of Canada (NSERC) <br/>
-- Journal referee: _Ecological Indicators, Biology Letters, Biological Invasions, Integrative Zoology, Biological Conservation, Methods in Ecology & Evolution, Ecological Engineering, Nature Scientific Reports, PLoS ONE, Ecography, Ecological Applications, Limnetica, Limnologica - Ecology and Management of Inland Waters, Global Ecology and Conservation, Naturwissenschaften, Marine Ecology Progress Series, Journal of Applied Ecology, Freshwater Biology, Journal of Environmental Management, Knowledge and Management of Aquatic Ecosystems, Journal of Biogeography, Hydrobiologia, Aquatic Sciences, Ecological Modelling, Freshwater Science, Diversity and Distributions, Global Ecology and Biogeography, Fundamental and Applied Limnology (Guest Editor), Global Change Biology (Advisory Board member 2013-2017)_ <br/>
+- Journal referee: _Aquatic Sciences, Biological Conservation, Biology Letters, Biological Invasions, Diversity & Distributions, Ecography, Ecological Applications, Ecological Engineering, Ecological Indicators, Ecological Modelling, Freshwater Biology, Freshwater Science, Fundamental and Applied Limnology (Guest Editor), Global Change Biology (Advisory Board member 2013-2017), Global Ecology and Conservation, Hydrobiologia, Integrative Zoology, Journal of Applied Ecology, Journal of Biogeography, Journal of Environmental Management, Knowledge and Management of Aquatic Ecosystems, Limnetica, Limnologica, Marine Ecology Progress Series, Methods in Ecology & Evolution, Scientific Reports, PLoS ONE, The Science of Nature, WIREs Climate Change_ <br/>
 
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-8127-9335" href="https://orcid.org/0000-0002-8127-9335" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-8127-9335</a></div>
