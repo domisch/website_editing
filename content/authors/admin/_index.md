@@ -96,7 +96,7 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
  
 ##### __Reviewer activities__ <br/>
 - Member of Editorial Advisory Board: _Limnologica, Global Change Biology (2014-2017)_ <br/>
-- Funding agency: Natural Sciences and Engineering Research Council of Canada (NSERC) <br/>
+- Funding agencies: Natural Sciences and Engineering Research Council of Canada (NSERC), German Centre for Integrative Biodiversity Research (iDiv), GO-IN-Goethe International Post-Doc Programme (Goethe Universität Frankfurt, Germany) <br/>
 - Journal referee: _Aquatic Sciences, Biological Conservation, Biology Letters, Biological Invasions, Diversity & Distributions, Ecography, Ecological Applications, Ecological Engineering, Ecological Indicators, Ecological Modelling, Freshwater Biology, Freshwater Science, Fundamental and Applied Limnology (Guest Editor), Global Change Biology (Advisory Board member 2013-2017), Global Ecology and Conservation, Hydrobiologia, Integrative Zoology, Journal of Applied Ecology, Journal of Biogeography, Journal of Environmental Management, Knowledge and Management of Aquatic Ecosystems, Limnetica, Limnologica, Marine Ecology Progress Series, Methods in Ecology & Evolution, Scientific Reports, PLoS ONE, The Science of Nature, WIREs Climate Change_ <br/>
 
 
