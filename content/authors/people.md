@@ -36,7 +36,7 @@ date = "2019-08-05T00:00:00+02:00"
 
 {{< figure src="/authors/martin-friedrichs-manthay/avatar.jpg#floatleft"  width="130" height="130"  alt="martin"  >}} 
 
-[__Martin Friedrichs-Manthay__](https://martinfriedrichs.de/) is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/index.php/home.html) and co-supervised by Sami) 
+[__Martin Friedrichs-Manthay__](https://martinfriedrichs.de/) is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/) and co-supervised by Sami) 
 
 <br/><br/>
 
