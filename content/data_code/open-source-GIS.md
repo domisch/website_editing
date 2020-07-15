@@ -1,5 +1,5 @@
 ---
-date: "2019-07-01T00:00:00+02:00"
+date: "2020-07-01T00:00:00+02:00"
 draft: false
 linktitle: Open-source GIS
 menu:
