@@ -69,11 +69,11 @@
   weight = 70
   identifier = "data_code"
 
-#[[main]]
-#  name = "Maps"
-#  url = "/maps/"
-#  weight = 80
-#  identifier = "maps"
+[[main]]
+  name = "Maps"
+  url = "/maps/"
+  weight = 80
+  identifier = "maps"
  
 
 [[main]]

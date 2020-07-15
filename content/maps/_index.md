@@ -6,7 +6,8 @@ toc: false
 type: "widget_page" # type: docs
 ---
 
-This page is intended to show example maps and predictions.
+We will soon upload various maps and predictions for online visualization.
 
-{{<iframe src="https://geo.igb-berlin.de/maps/92/embed">}}
+[//]: greek_fish_SDM_dataset:
+{{<iframe src="https://geo.igb-berlin.de/maps/92/embed">}} 
 
