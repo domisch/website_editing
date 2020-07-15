@@ -1,12 +1,9 @@
 ---
-draft: true
-menu:
-  maps:
-    name: Maps & predictions
-    # weight: 1
+date: "2020-07-15T00:00:00+02:00"
+draft: false 
 title: Maps & predictions
-toc: false # table of contents on the right, if long text...
-type: docs
+toc: false
+type: "widget_page" # type: docs
 ---
 
 This page is intended to show example maps and predictions.
