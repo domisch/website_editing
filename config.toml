@@ -9,9 +9,11 @@ title = "Global freshwater biodiversity research"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://glowabio.org/" 
-# baseurl = "https://domisch.github.io/" 
-#
+baseURL="https://glowabio.org/"
+# baseURL = "https://domisch.github.io/" 
+
+
+canonifyURLs = true
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -103,3 +105,8 @@ author = "Sami Domisch"
   [privacy.youtube]
     disable = true
 
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
