@@ -4,8 +4,8 @@ draft: false
 linktitle: 1km freshwater variables
 menu:
   maps:
-    parent: Maps & Predictions
-    weight: 2
+    parent: Maps & predictions
+    weight: 1
 title: Freshwater-specific environmental variables at 1km resolution
 toc: false
 type: docs

@@ -4,8 +4,8 @@ draft: false
 linktitle: Geomorpho90m dataset
 menu:
   maps:
-    parent: Maps & Predictions
-    weight: 3
+    parent: Maps & predictions
+    weight: 2
 title: Geomorpho90m dataset
 toc: false
 type: docs
