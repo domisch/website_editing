@@ -1,15 +1,21 @@
 ---
-date: "2020-07-15T00:00:00+02:00"
-draft: false 
+date: "2020-07-019T00:00:00+02:00"
+draft: false
+menu:
+  maps:
+    name: 
+    weight: 1
 title: Maps & predictions
-toc: false
-type: "widget_page" # type: docs
+toc: false # table of contents on the right, if long text...
+type: docs
 ---
 
-Global high-resolution geomorphometric layers (Geomorpho90m dataset by [Amatulli et al. 2020](https://www.nature.com/articles/s41597-020-0479-6)). Below the global "roughness" layer as an example, aggregated to 250m resolution.
 
-Data at 90m resolution available at [OpenTopography](https://portal.opentopography.org/dataspace/dataset?opentopoID=OTDS.012020.4326.1)
-{{<openlandmap src="https://openlandmap.org/#/?base=Stamen%20(OpenStreetMap)&center=42.1952,0.0417&zoom=9&opacity=80&layer=dtm_roughness_merit.dem_m">}} 
+![](/img/stream_network.png)
 
+We provide some interactive maps for browsing and will gradually add more: 
 
+- [Freshwater-specific environmental variables at 1km resolution](/maps/1km_variables)
+- [Globally standardized geomorphometry variables at 90m resolution](/maps/Geomorpho90m)
+- [Test data set for freshwater modelling](/maps/SDM_test_data)
 
