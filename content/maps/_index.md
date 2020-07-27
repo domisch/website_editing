@@ -16,6 +16,6 @@ type: docs
 We provide some interactive maps for browsing and will gradually add more: 
 
 - [Freshwater-specific environmental variables at 1km resolution](/maps/1km_variables)
-- [Globally standardized geomorphometry variables at 90m resolution](/maps/Geomorpho90m)
-- [Test data set for freshwater modelling](/maps/SDM_test_data)
+- [Globally standardized geomorphometry variables at 90m resolution](/maps/geomorpho90m)
+- [Test data set for freshwater modelling](/maps/sdm_test_data)
 
