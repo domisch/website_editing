@@ -12,7 +12,7 @@ type: docs
 ---
 
 
-Near-global freshwater-specific variables at 1km spatial resolution [Domisch et al. 2015](https://www.nature.com/articles/sdata201573). Data download at [earthenv.org/streams](http://www.earthenv.org/streams).
+Near-global freshwater-specific variables at 1km spatial resolution ([Domisch et al. 2015](https://www.nature.com/articles/sdata201573)). Data download at [earthenv.org/streams](http://www.earthenv.org/streams).
 
 {{<km_variables src="https://earthenv-dot-map-of-life.appspot.com/3/0.000/0.000?collections=streams&amp;layers=Precipitation_seasonality_(avg)">}} 
 
