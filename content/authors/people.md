@@ -46,9 +46,16 @@ date = "2019-08-05T00:00:00+02:00"
 <br/><br/>
 
 {{< figure src="/authors/thomas-tomiczek/avatar.jpg#floatleft"  width="130" height="130"  alt="thomas"  >}} 
-[__Thomas Tomiczek__](/authors/thomas-tomiczek/) is a master student from the Humboldt University working on his master thesis at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). His thesis addresses integrating freshwater biodiversity in large scale conservation planning in Colombia. 
+[__Thomas Tomiczek__](/authors/thomas-tomiczek/) is a master student from the Humboldt University working on his master thesis at the [IGB](https://www.igb-berlin.de/en/). His thesis addresses integrating freshwater biodiversity in large scale conservation planning in Colombia. 
 
 <br/><br/><br/><br/><br/>
+
+{{< figure src="/authors/lydia-nass/avatar.jpg#floatleft"  width="130" height="130"  alt="lydia"  >}} 
+[__Lydia Nass__](/authors/lydia-nass/) is a master student from the Freie Universität Berlin. She is doing an intership at the [IGB](https://www.igb-berlin.de/en/), focusing on open-source geocomputational and species distribution modelling methods. 
+
+
+<br/><br/>
+
 
 {{< figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="130" height="130"  alt="xiling"  >}} 
 [__Xiling Deng__](https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/) is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients. 
