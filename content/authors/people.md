@@ -42,7 +42,6 @@ date = "2019-08-05T00:00:00+02:00"
 [__Maria Üblacker__](/authors/maria-ueblacker/) is a PhD student working on a high-resolution freshwater habitat characterization across spatial scales, to highlight patterns and potential gaps in the global network of protected areas.
 
 
-
 <br/><br/>
 
 {{< figure src="/authors/martin-friedrichs-manthay/avatar.jpg#floatleft"  width="130" height="130"  alt="martin"  >}} 
