@@ -32,7 +32,11 @@ date = "2019-08-05T00:00:00+02:00"
 
 <br/><br/>
 
+{{< figure src="/authors/afroditi-grigoropoulou/avatar.jpg#floatleft"  width="130" height="140"  alt="afroditi"  >}} 
+[__Afroditi Grigoropoulou__](/authors/afroditi-grigoropoulou/) is a PhD student focusing on global aquatic insect biodiversity, with an emphasis on patterns of aquatic insect diversity across multiple spatial scales.
 
+
+<br/><br/>
 
 {{< figure src="/authors/martin-friedrichs-manthay/avatar.jpg#floatleft"  width="130" height="130"  alt="martin"  >}} 
 
@@ -59,7 +63,6 @@ date = "2019-08-05T00:00:00+02:00"
 
 {{< figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="130" height="130"  alt="xiling"  >}} 
 [__Xiling Deng__](https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/) is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients. 
-
 
 
 
