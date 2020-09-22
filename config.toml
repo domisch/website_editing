@@ -10,7 +10,7 @@ title = "Global freshwater biodiversity research"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseURL="https://glowabio.org/"
-# baseURL = "https://domisch.github.io/" 
+# baseURL = "https://domisch.github.io/"
 
 
 canonifyURLs = true
