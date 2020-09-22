@@ -33,22 +33,22 @@ date = "2012-09-05T00:00:00+02:00"
 <br/><br/>
 
 
-{{< figure src="/authors/afroditi-grigoropoulou/avatar.jpg#floatleft"  width="130" height="140"  alt="afroditi"  >}} 
-[__Afroditi Grigoropoulou__](/authors/afroditi-grigoropoulou/) is a PhD student focusing on global aquatic insect biodiversity, with an emphasis on patterns of aquatic insect diversity across multiple spatial scales.
+{{< figure src="/authors/afroditi-grigoropoulou/avatar.jpg#floatleft"  width="130" height="130"  alt="afroditi"  >}} 
+[__Afroditi Grigoropoulou__](/authors/afroditi-grigoropoulou/) is a PhD student focusing on global aquatic insect biodiversity, with an emphasis on patterns of aquatic insect diversity across multiple spatial scales.  
 
 
 <br/><br/>
 
 
-{{< figure src="/authors/maria-ueblacker/avatar.jpg#floatleft"  width="130" height="140"  alt="marlene"  >}} 
-[__Maria &Uuml;blacker__](/authors/maria-ueblacker/) is a PhD student working on a high-resolution freshwater habitat characterization across spatial scales, to highlight patterns and potential gaps in the global network of protected areas.
+{{< figure src="/authors/maria-ueblacker/avatar.jpg#floatleft"  width="130" height="130"  alt="marlene"  >}} 
+[__Maria Üblacker__](/authors/maria-ueblacker/) is a PhD student working on a high-resolution freshwater habitat characterization across spatial scales, to highlight patterns and potential gaps in the global network of protected areas.
 
 
 <br/><br/>
 
 
 {{< figure src="/authors/martin-friedrichs-manthay/avatar.jpg#floatleft"  width="130" height="130"  alt="martin"  >}} 
-[__Martin Friedrichs-Manthay__](https://martinfriedrichs.de/) is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/) and co-supervised by Sami) 
+[__Martin Friedrichs-Manthay__](https://martinfriedrichs.de/) is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/) and co-supervised by Sami). 
 
 
 <br/><br/>
@@ -56,6 +56,7 @@ date = "2012-09-05T00:00:00+02:00"
 
 {{< figure src="/authors/annika-brunner/avatar.jpg#floatleft"  width="130" height="140"  alt="annika"  >}} 
 [__Annika Brunner__](/authors/annika-brunner/) is a master Student at Freie Universität Berlin and writes her master thesis at [IGB](https://www.igb-berlin.de/en/). Annika integrates Shared Socioeconomic Pathways (SSPs) into freshwater biodiversity projections. 
+
 
 <br/><br/>
 
