@@ -38,8 +38,7 @@ date = "2019-08-05T00:00:00+02:00"
 
 <br/><br/>
 
-
-{{< figure src="/authors/maria-ueblacker/avatar.jpg#floatleft"  width="130" height="140"  alt="marlene"  >}}
+{{< figure src="/authors/maria-ueblacker/avatar.jpg#floatleft"  width="130" height="140"  alt="marlene"  >}} 
 [__Maria &Uuml;blacker__](/authors/maria-ueblacker/) is a PhD student working on a high-resolution freshwater habitat characterization across spatial scales, to highlight patterns and potential gaps in the global network of protected areas.
 
 
