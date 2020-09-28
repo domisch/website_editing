@@ -52,7 +52,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:maria.magdalena.ueblacker@igb-berlin.de  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:maria.ueblacker@igb-berlin.de  # For a direct email link, use "mailto:test@example.org".
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4MTbRS_CtZak5NvulHQnTUR5CtP3wuLcWd9TTfd0Ex0iizcDu6nrRrtC0VTJ3Haf185goHaNBhuQHANrJJsC_RCBm1pw&user=NZIC7dsAAAAJ
