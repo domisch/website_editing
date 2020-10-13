@@ -33,6 +33,13 @@ date = "2012-09-05T00:00:00+02:00"
 <br/><br/>
 
 
+{{< figure src="/authors/longzhu-shen/avatar.jpg#floatleft"  width="130" height="130"  alt="longzhu"  >}} 
+[__Dr. Longzhu Shen__](/authors/longzhu-shen/) is a postdoc woth a strong mathematical background, focusing on machine learning and GIS methods to optimize predictions of discharge and nutrients in stream networks.
+
+
+<br/><br/>
+
+
 {{< figure src="/authors/afroditi-grigoropoulou/avatar.jpg#floatleft"  width="130" height="130"  alt="afroditi"  >}} 
 [__Afroditi Grigoropoulou__](/authors/afroditi-grigoropoulou/) is a PhD student focusing on global aquatic insect biodiversity, with an emphasis on patterns of aquatic insect diversity across multiple spatial scales.  
 
