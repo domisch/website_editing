@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Freshwater biodiversity, biogeography & conservation"
-subtitle = "Leibniz-Junior Research Group led by Sami Domisch"
+subtitle = "Leibniz Junior Research Group led by Sami Domisch"
 
 
 [design]
@@ -52,4 +52,4 @@ subtitle = "Leibniz-Junior Research Group led by Sami Domisch"
 
 +++
 
-The Leibniz-Junior Research Group emphasizes novel approaches in spatial freshwater biodiversity science, to gain a more detailed overview in the distribution of freshwater habitats, biodiversity patterns, and link these with conservation planning. [Read more...](/post)
+The Leibniz Junior Research Group emphasizes novel approaches in spatial freshwater biodiversity science, to gain a more detailed overview in the distribution of freshwater habitats, biodiversity patterns, and link these with conservation planning. [Read more...](/post)

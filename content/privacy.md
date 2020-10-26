@@ -52,7 +52,7 @@ __Contact us__
 If you have any questions about this Privacy Policy and the Legal Notes, please contact us: 
 
 Dr. Sami Domisch  
-Leibniz-Institute of Freshwater Ecology and Inland Fisheries  
+Leibniz Institute of Freshwater Ecology and Inland Fisheries  
 Department of Ecosystem Research  
 Justus-von-Liebig-Str. 7  
 D-12489 Berlin  

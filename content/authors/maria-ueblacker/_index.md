@@ -14,7 +14,7 @@ superuser: false
 role: PhD student
 # Organizations/Affiliations
 organizations:
-- name: Leibniz-Institute of Freshwater Ecology and Inland Fisheries
+- name: Leibniz Institute of Freshwater Ecology and Inland Fisheries
   url: "https://www.igb-berlin.de"   
 
 
@@ -75,4 +75,4 @@ user_groups:
 ---
 
 
-Marlene Üblacker is a PhD student at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). She is working on a high-resolution freshwater habitat characterization and is conducting analyses across spatial scales to highlight distinct patterns of aquatic insects and potential gaps in the global network of protected areas.
+Marlene Üblacker is a PhD student at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). She is working on a high-resolution freshwater habitat characterization and is conducting analyses across spatial scales to highlight distinct patterns of aquatic insects and potential gaps in the global network of protected areas.

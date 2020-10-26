@@ -14,7 +14,7 @@ superuser: false
 role: Junior Research Group Leader 
 # Organizations/Affiliations
 organizations: 
-- name: Leibniz-Institute of Freshwater Ecology and Inland Fisheries 
+- name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
   url: "https://www.igb-berlin.de"   
 
 
@@ -70,15 +70,15 @@ user_groups:
 ---
 
 
-Sami Domisch is a Leibniz Junior Research Group Leader at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/profile/sami-domisch). Sami is interested in freshwater biodiversity with an emphasis on spatial biodiversity patterns, macroecology, and developing tools to assess freshwater biodiversity across large spatial scales. 
+Sami Domisch is a Leibniz Junior Research Group Leader at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/profile/sami-domisch). Sami is interested in freshwater biodiversity with an emphasis on spatial biodiversity patterns, macroecology, and developing tools to assess freshwater biodiversity across large spatial scales. 
 
 The group uses a wide array of open-source tools for spatial biodiversity informatics such as R, GRASS, GDAL/OGR, pktools, OpenForis within the Linux environment.
 
 ---
 
 ##### __Career__ <br/>
-- since 2019 - Leibniz-Junior Research Group Leader at Leibniz-Institute of Freshwater Ecology and Inland Fisheries <br/>
-- 2016-2019 - Leibniz-Institute of Freshwater Ecology and Inland Fisheries (Postdoc)  <br/>
+- since 2019 - Leibniz Junior Research Group Leader at Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
+- 2016-2019 - Leibniz Institute of Freshwater Ecology and Inland Fisheries (Postdoc)  <br/>
 - 2013-2016 - Yale University, USA (Postdoctoral associate and DFG postdoctoral fellow)  <br/>
 - 2012-2013 - Biodiversity and Climate Research Centre (BiK-F), Frankfurt, Germany (Postdoc)  <br/>
 
@@ -106,4 +106,3 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 
 
 ---
-

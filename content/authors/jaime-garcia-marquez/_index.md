@@ -14,7 +14,7 @@ superuser: false
 role: GIS and Data Analyst
 # Organizations/Affiliations
 organizations: 
-- name: Leibniz-Institute of Freshwater Ecology and Inland Fisheries 
+- name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
   url: "https://www.igb-berlin.de"   
 
 
@@ -69,13 +69,13 @@ user_groups:
 ---
 
 
-Jaime Garcia Marquez is a GIS and Data Analyst at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Jaime has a long expertise on the use of ecological spatial methods which he has applied in research and consulting on biodiversity and ecosystem services conservation and landscape planning.
+Jaime Garcia Marquez is a GIS and Data Analyst at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Jaime has a long expertise on the use of ecological spatial methods which he has applied in research and consulting on biodiversity and ecosystem services conservation and landscape planning.
 
 
 ---
 
 ##### __Career__ <br/>
-- since 2019 - GIS and Data Analyst at Leibniz-Institute of Freshwater Ecology and Inland Fisheries <br/>
+- since 2019 - GIS and Data Analyst at Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
 - 2018-2019 - Geography Department, Humboldt Universit&auml;t zu Berlin (Postdoc)  <br/>
 - 2014-2018 - Integrative Research Institute on Transformations of Human-Environment Systems (IRI THESys), Humboldt Universit&auml;t zu Berlin (Postdoc)  <br/>
 - 2011-2013 - Environmental Consultant
@@ -87,4 +87,3 @@ Jaime Garcia Marquez is a GIS and Data Analyst at the [Leibniz-Institute of Fres
 - Journal referee: _International Journal of Geographical Information Systems,  Ecological Modelling, Plant Ecology and Diversity,  International Journal of Biodiversity Science, Ecosystem Services & Management,  Land Use Policy_ <br/>
 
 ---
-

@@ -34,7 +34,7 @@ We use, beside R, largely open-source (command-line) GIS tools within the Linux 
 __Contact information:__
 
 Dr. Sami Domisch  
-Leibniz-Institute of Freshwater Ecology and Inland Fisheries  
+Leibniz Institute of Freshwater Ecology and Inland Fisheries  
 Department of Ecosystem Research  
 Justus-von-Liebig-Str. 7  
 D-12489 Berlin  

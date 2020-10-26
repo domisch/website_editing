@@ -14,7 +14,7 @@ superuser: false
 role: GIS Modeller
 # Organizations/Affiliations
 organizations: 
-- name: Leibniz-Institute of Freshwater Ecology and Inland Fisheries 
+- name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
   url: "https://www.igb-berlin.de"   
 
 
@@ -68,13 +68,13 @@ user_groups:
 - Researchers
 ---
 
-Dr. Longzhu Shen is a GIS modeller at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Dr. Shen's technical background was quantum chemistry with broad applications, especially in areas related to ecology, environment and public health. After Ph.D. training, he migrated further into machine learning oriented modellings and often crafted unique solutions via coupling the physical principles and data-driven approaches. He has built predictive models to estimate the distributions of nitrogen and phosphorus in their various forms in the streams around the globe.   
+Dr. Longzhu Shen is a GIS modeller at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Dr. Shen's technical background was quantum chemistry with broad applications, especially in areas related to ecology, environment and public health. After Ph.D. training, he migrated further into machine learning oriented modellings and often crafted unique solutions via coupling the physical principles and data-driven approaches. He has built predictive models to estimate the distributions of nitrogen and phosphorus in their various forms in the streams around the globe.   
 
 
 ---
 
 ##### __Career__ <br/>
-- since Oct. 2020 - GIS modeller at Leibniz-Institute of Freshwater Ecology and Inland Fisheries <br/>
+- since Oct. 2020 - GIS modeller at Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
 - 2019-2020 - Independent modelling consultant
 - 2017-2019 - Department of Zoology, University of Cambridge, UK (Postdoc)  <br/>
 - 2014-2018 - School of the Environment, Yale University, USA (Postdoc)  <br/>

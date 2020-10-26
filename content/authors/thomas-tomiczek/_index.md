@@ -13,7 +13,7 @@ superuser: false
 role: Master Student
 # Organizations/Affiliations
 organizations: 
-- name: Leibniz-Institute of Freshwater Ecology and Inland Fisheries 
+- name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
   url: "https://www.igb-berlin.de"   
 
 
@@ -65,15 +65,14 @@ user_groups:
 ---
 
 
-Thomas Tomiczek is a Master student from the Humboldt University working on his Master thesis at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). His thesis addresses integrating freshwater biodiversity in large scale conservation planning in Colombia. 
+Thomas Tomiczek is a Master student from the Humboldt University working on his Master thesis at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). His thesis addresses integrating freshwater biodiversity in large scale conservation planning in Colombia. 
 
 ---
 
 ##### __Career__ <br/>
-- since 2020 - Master thesis at Leibniz-Institute of Freshwater Ecology and Inland Fisheries <br/>
+- since 2020 - Master thesis at Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
 - 2018-2018 - WWF - World Wide Fund For Nature, Berlin (Internship) <br/>
 - 2015-2015 - Dutch Ministry of Infrastructure and Environment, The Hague, Netherlands (Internship) <br/>
 - 2013-2013 - Bachelor thesis at Helmholtz Institute, Centre for Environmental Research, Leipzig, Germany  <br/>
 
 ---
-

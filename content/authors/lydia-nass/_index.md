@@ -13,7 +13,7 @@ superuser: false
 role: Master Student
 # Organizations/Affiliations
 organizations: 
-- name: Leibniz-Institute of Freshwater Ecology and Inland Fisheries 
+- name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
   url: "https://www.igb-berlin.de"   
 
 
@@ -65,7 +65,7 @@ user_groups:
 ---
 
 
-Lydia Nass is a Master student at the Free University of Berlin working as an intern at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Her work addresses the biodiversity in freshwaters across europe.
+Lydia Nass is a Master student at the Free University of Berlin working as an intern at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Her work addresses the biodiversity in freshwaters across europe.
 
 ---
 
@@ -75,4 +75,3 @@ Lydia Nass is a Master student at the Free University of Berlin working as an in
 - 2016 - Intrernship at K&S Umweltgutachten
 
 ---
-

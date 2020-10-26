@@ -20,7 +20,7 @@ date = "2012-09-05T00:00:00+02:00"
 
 
 {{< figure src="/authors/admin/avatar.jpg#floatleft"  width="130" height="130"  alt="sami"  >}} 
-[__Dr. Sami Domisch__](/authors/admin/) is a Leibniz-Junior Research Group Leader and is interested in freshwater biodiversity and biogeography across spatial scales, and in developing tools in spatial freshwater biodiversity science. 
+[__Dr. Sami Domisch__](/authors/admin/) is a Leibniz Junior Research Group Leader and is interested in freshwater biodiversity and biogeography across spatial scales, and in developing tools in spatial freshwater biodiversity science. 
 
 
 <br/><br/>
