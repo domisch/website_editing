@@ -34,7 +34,7 @@ date = "2012-09-05T00:00:00+02:00"
 
 
 {{< figure src="/authors/longzhu-shen/avatar.jpg#floatleft"  width="130" height="130"  alt="longzhu"  >}} 
-[__Dr. Longzhu Shen__](/authors/longzhu-shen/) is a postdoc woth a strong mathematical background, focusing on machine learning and GIS methods to optimize predictions of discharge and nutrients in stream networks.
+[__Dr. Longzhu Shen__](/authors/longzhu-shen/) is a postdoc with a strong mathematical background, focusing on machine learning and GIS methods to optimize predictions of discharge and nutrients in stream networks.
 
 
 <br/><br/>
@@ -75,12 +75,15 @@ date = "2012-09-05T00:00:00+02:00"
 
 
 ---
+
 __Visitors__
 
 {{< figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="130" height="130"  alt="xiling"  >}} 
 [__Xiling Deng__](https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/) is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients. 
 
+{{< figure src="/authors/francesco-polazzo/avatar.jpg#floatleft"  width="130" height="130"  alt="francesco"  >}} 
 
+[__Francesco Polazzo__](/authors/francesco-polazzo/) is a visiting PhD student from the [IMDEA Water Institute of Alcalá de Henares, Madrid](https://www.water.imdea.org/). He studies how climate change and others drivers of environmental change affect the stability and vulnerability of aquatic communities.
 
 <br/><br/>
 
