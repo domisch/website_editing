@@ -74,15 +74,24 @@ date = "2012-09-05T00:00:00+02:00"
 <br/><br/><br/><br/><br/>
 
 
-{{< figure src="/authors/lydia-nass/avatar.jpg#floatleft"  width="130" height="130"  alt="lydia"  >}} 
-[__Lydia Nass__](/authors/lydia-nass/) is a master student from the Freie Universität Berlin. She is doing an intership at the [IGB](https://www.igb-berlin.de/en/), focusing on open-source geocomputational and species distribution modelling methods. 
+---
+__Visitors__
+
+{{< figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="130" height="130"  alt="xiling"  >}} 
+[__Xiling Deng__](https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/) is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients. 
+
 
 
 <br/><br/>
 
+---
 
-{{< figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="130" height="130"  alt="xiling"  >}} 
-[__Xiling Deng__](https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/) is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients. 
+__Previous members__
+
+{{< figure src="/authors/lydia-nass/avatar.jpg#floatleft"  width="130" height="130"  alt="lydia"  >}} 
+[__Lydia Nass__](/authors/lydia-nass/) is a master student from the Freie Universität Berlin. She is doing an intership at the [IGB](https://www.igb-berlin.de/en/), focusing on open-source geocomputational and species distribution modelling methods. 
+
+
 
 
 
