@@ -138,6 +138,7 @@ __Collaborators__
 - [Ram Devi Tachamo Shah](https://scholar.google.de/citations?user=Fvb1caYAAAAJ&hl=en)
 - [Deep Narayan Shah](https://scholar.google.com/citations?user=5lx_mfkAAAAJ&hl=en)
 - [Renato Tavares Martins](https://sites.google.com/site/renatotavaresmartins1/)
+- [Francis Arimoro](https://www.researchgate.net/profile/Francis_Arimoro)
 
 
 <br/><br/>
