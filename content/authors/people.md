@@ -140,6 +140,6 @@ __Collaborators__
 - [Renato Tavares Martins](https://sites.google.com/site/renatotavaresmartins1/)
 - [Francis Arimoro](https://www.researchgate.net/profile/Francis_Arimoro)
 - [Emmanuel Akindele](https://www.researchgate.net/profile/Emmanuel_Olusegun_Akindele)
-
+- [John Simaika](https://www.un-ihe.org/john-simaika)
 
 <br/><br/>
