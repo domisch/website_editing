@@ -141,5 +141,6 @@ __Collaborators__
 - [Francis Arimoro](https://www.researchgate.net/profile/Francis_Arimoro)
 - [Emmanuel Akindele](https://www.researchgate.net/profile/Emmanuel_Olusegun_Akindele)
 - [John Simaika](https://www.un-ihe.org/john-simaika)
+- [Florian Altermatt](https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/florian-altermatt/show/)
 
 <br/><br/>
