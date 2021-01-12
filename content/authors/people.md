@@ -142,5 +142,6 @@ __Collaborators__
 - [Emmanuel Akindele](https://www.researchgate.net/profile/Emmanuel_Olusegun_Akindele)
 - [John Simaika](https://www.un-ihe.org/john-simaika)
 - [Florian Altermatt](http://www.altermattlab.ch/)
+- [Richard Johnson](https://www.slu.se/en/ew-cv/richard-johnson/)
 
 <br/><br/>
