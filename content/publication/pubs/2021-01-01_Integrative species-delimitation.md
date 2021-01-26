@@ -1,9 +1,9 @@
 +++
-title = "Improving the reliability of eDNA data interpretation"
-date = "2020-08-01"
-authors = ["Burian, A.", "Mauvisseau, Q.", "Bulling, M.", "__Domisch, S.__", "Qian, S.", "Sweet, M."]
+title = "Integrative species-delimitation: testing the efficacy of the multispecies coalescent model in the Greenthroat Darter complex (Etheostoma lepidum)"
+date = "2021-01-01"
+authors = ["MacGuigan, D.J.", "Hoagstrom, C.W.", "__Domisch, S.__", "Hulsey, C.D.", "Near, T.J."]
 publication_types = ["3"]
-publication = "_in review_"
+publication = "under review"
 publication_short = "_in review_"
 abstract = ""
 abstract_short = ""

@@ -1,6 +1,6 @@
 +++
 title = "Revisiting global trends in freshwater insect biodiversity"
-date = "2020-12-12"
+date = "2020-09-01"
 authors = ["J&auml;hnig, S.C", "Baranov, V.",  "Altermatt, F.", "Cranston, P.", "Friedrichs-Manthey, M.", "Geist, J.", "He, F.", "Heino, J.", "Hering, D.", "H&ouml;lker, F.", "Jourdan, J.", "Kalinkat, G.", "Kiesel, J.", "Leese, F.", "Maasri, A.", "Monaghan, M.T.", "Sch&auml;fer, R.B.", "Tockner, K.", "Tonkin, J.D.", "__Domisch, S.__"]
 publication_types = ["2"]
 publication = "_WIREs Waters_, early view (e1506), https://onlinelibrary.wiley.com/doi/10.1002/wat2.1506"
