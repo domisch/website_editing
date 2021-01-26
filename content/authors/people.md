@@ -86,7 +86,7 @@ date = "2012-09-05T00:00:00+02:00"
 __Visitors__
 
 {{< figure src="/authors/mathieu-floury/avatar.jpg#floatleft"  width="130" height="130"  alt="mathieu"  >}} 
-[__Mathieu Floury__](/authors/mathieu-floury/) is a visiting Postcoc from the Ecology Natural and Anthropized Hydrosystems Lab [(LEHNA)](https://umr5023.univ-lyon1.fr). He is interested in ecology and conservation of biodiversity in hydrosystems across spatial and temporal scales. 
+[__Mathieu Floury__](/authors/mathieu-floury/) is a visiting Postdoc from the Ecology of Natural and Anthropized Hydrosystems Lab [(LEHNA)](https://umr5023.univ-lyon1.fr). He is interested in ecology and conservation of biodiversity in hydrosystems across spatial and temporal scales. 
 
 
 {{< figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="130" height="130"  alt="xiling"  >}} 
