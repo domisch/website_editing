@@ -85,11 +85,15 @@ date = "2012-09-05T00:00:00+02:00"
 
 __Visitors__
 
+{{< figure src="/authors/mathieu-floury/avatar.jpg#floatleft"  width="130" height="130"  alt="mathieu"  >}} 
+[__Mathieu Floury__](/authors/mathieu-floury/) is a visiting Postcoc from the Ecology Natural and Anthropized Hydrosystems Lab [(LEHNA)](https://umr5023.univ-lyon1.fr). He is interested in ecology and conservation of biodiversity in hydrosystems across spatial and temporal scales. 
+
+
 {{< figure src="/authors/xiling-deng/avatar.jpg#floatleft"  width="130" height="130"  alt="xiling"  >}} 
 [__Xiling Deng__](https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-terrestrische-zoologie/sekt-entomologie-iii/entomologie-iii-team/) is a visiting PhD student from the Senckenberg Research Institute and Natural History Museum. She is working on the phylogeography of caddiesflies along elevational gradients. 
 
-{{< figure src="/authors/francesco-polazzo/avatar.jpg#floatleft"  width="130" height="130"  alt="francesco"  >}} 
 
+{{< figure src="/authors/francesco-polazzo/avatar.jpg#floatleft"  width="130" height="130"  alt="francesco"  >}} 
 [__Francesco Polazzo__](/authors/francesco-polazzo/) is a visiting PhD student from the [IMDEA Water Institute of Alcalá de Henares, Madrid](https://www.water.imdea.org/). He studies how climate change and others drivers of environmental change affect the stability and vulnerability of aquatic communities.
 
 <br/><br/>
