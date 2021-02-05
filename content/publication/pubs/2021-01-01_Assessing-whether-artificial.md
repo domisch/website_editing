@@ -1,6 +1,6 @@
 +++
 title = "Assessing whether artificial intelligence is an enabler or an inhibitor of sustainability"
-date = "2020-12-02"
+date = "2021-06-01"
 authors = ["Gupta, S.", "Langhans, S.D.", "__Domisch, S.__", "Fuso-Nerini, F.", "Felländer, A.", "Battaglini, M.", "Tegmark, M.", "Vinuesa, R."]
 publication_types = ["3"]
 publication = "_in review_"

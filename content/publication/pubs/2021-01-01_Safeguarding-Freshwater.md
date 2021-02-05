@@ -1,6 +1,6 @@
 +++
 title = "Safeguarding freshwater life beyond 2020: Recommendations for the new global biodiversity framework from the European experience"
-date = "2020-10-12"
+date = "2021-02-01"
 authors = ["van Rees, C.B.", "Waylen, K." , "Schmidt-Kloiber, A.", "Thackeray, S." , "Kalinkat, G.", "Martens, K.", "__Domisch, S.__", "Lillebø, A.I.", "Hermoso, V.",  "Grossart, H.-P.", "Schinegger, R.", "Decleer, K.", "Adriaens, T.", "Denys, L.", "Jarić, I.", "Monaghan, M.T.", "Janse, J.", "De Wever, A.", "Geijzendorffer, I.", "Adamescu, M.", "J&auml;hnig, S.C"]
 publication_types = ["2"]
 publication = "_Conservation Letters_, early view https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12771"

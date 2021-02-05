@@ -1,6 +1,6 @@
 +++
 title = "Improving the reliability of eDNA data interpretation"
-date = "2021-01-01"
+date = "2021-06-01"
 authors = ["Burian, A.", "Mauvisseau, Q.", "Bulling, M.", "__Domisch, S.__", "Qian, S.", "Sweet, M."]
 publication_types = ["3"]
 publication = "_in review_"
