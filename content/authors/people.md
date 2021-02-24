@@ -33,12 +33,6 @@ date = "2012-09-05T00:00:00+02:00"
 <br/><br/>
 
 
-{{< figure src="/authors/longzhu-shen/avatar.jpg#floatleft"  width="130" height="130"  alt="longzhu"  >}} 
-[__Dr. Longzhu Shen__](/authors/longzhu-shen/) is a postdoc with a strong mathematical background, focusing on machine learning and GIS methods to optimize predictions of discharge and nutrients in stream networks.
-
-<br/><br/>
-
-
 {{< figure src="/authors/jens-kiesel/avatar.jpg#floatleft"  width="130" height="130"  alt="jens"  >}} 
 [__Dr. Jens Kiesel__](/authors/jens-kiesel/) is a hydrologic modeller with a long experience in the fields of hydrology, hydraulics, erosion and sediment transport as well as habitat modelling on various scales and ecoregions.
 
@@ -61,13 +55,6 @@ date = "2012-09-05T00:00:00+02:00"
 
 {{< figure src="/authors/maria-ueblacker/avatar.jpg#floatleft"  width="130" height="130"  alt="marlene"  >}} 
 [__Maria &Uuml;blacker__](/authors/maria-ueblacker/) is a PhD student working on a high-resolution freshwater habitat characterization across spatial scales, to highlight patterns and potential gaps in the global network of protected areas.
-
-
-<br/><br/>
-
-
-{{< figure src="/authors/martin-friedrichs-manthay/avatar.jpg#floatleft"  width="130" height="130"  alt="martin"  >}} 
-[__Martin Friedrichs-Manthay__](https://martinfriedrichs.de/) is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/) and co-supervised by Sami). 
 
 
 <br/><br/>
@@ -108,10 +95,22 @@ __Visitors__
 
 __Previous members__
 
+{{< figure src="/authors/longzhu-shen/avatar.jpg#floatleft"  width="130" height="130"  alt="longzhu"  >}} 
+[__Dr. Longzhu Shen__](/authors/longzhu-shen/) is a postdoc with a strong mathematical background, focusing on machine learning and GIS methods to optimize predictions of discharge and nutrients in stream networks.
+
+<br/><br/>
+
 {{< figure src="/authors/lydia-nass/avatar.jpg#floatleft"  width="130" height="130"  alt="lydia"  >}} 
 [__Lydia Nass__](/authors/lydia-nass/) is a master student from the Freie Universität Berlin. She is doing an intership at the [IGB](https://www.igb-berlin.de/en/), focusing on open-source geocomputational and species distribution modelling methods. 
 
+<br/><br/>
 
+
+{{< figure src="/authors/martin-friedrichs-manthay/avatar.jpg#floatleft"  width="130" height="130"  alt="martin"  >}} 
+[__Martin Friedrichs-Manthay__](https://martinfriedrichs.de/) is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/) and co-supervised by Sami). 
+
+
+<br/><br/>
 
 
 
