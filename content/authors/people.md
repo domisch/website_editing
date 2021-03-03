@@ -101,7 +101,7 @@ __Previous members__
 <br/><br/>
 
 {{< figure src="/authors/lydia-nass/avatar.jpg#floatleft"  width="130" height="130"  alt="lydia"  >}} 
-[__Lydia Nass__](/authors/lydia-nass/) is a master student from the Freie Universität Berlin. She is doing an intership at the [IGB](https://www.igb-berlin.de/en/), focusing on open-source geocomputational and species distribution modelling methods. 
+[__Lydia Nass__](/authors/lydia-nass/) did an master internship at [IGB](https://www.igb-berlin.de/en/), focusing on open-source geocomputational and species distribution modelling methods. 
 
 <br/><br/>
 
