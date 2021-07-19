@@ -33,13 +33,6 @@ date = "2012-09-05T00:00:00+02:00"
 <br/><br/>
 
 
-{{< figure src="/authors/jens-kiesel/avatar.jpg#floatleft"  width="130" height="130"  alt="jens"  >}} 
-[__Dr. Jens Kiesel__](/authors/jens-kiesel/) is a hydrologic modeller with a long experience in the fields of hydrology, hydraulics, erosion and sediment transport as well as habitat modelling on various scales and ecoregions.
-
-
-<br/><br/>
-
-
 {{< figure src="/authors/yusdiel-torres-cambas/avatar.jpg#floatleft"  width="130" height="130"  alt="yusdiel"  >}} 
 [__Dr. Yusdiel Torres Cambas__](/authors/yusdiel-torres-cambas/) is an Alexander von Humboldt Postdoc. He is working on spatial conservation planning across Cuba considering freshwater biodiversity and ecosystem services under present-day conditions and global change scenarios.
 
@@ -94,6 +87,14 @@ __Visitors__
 ---
 
 __Previous members__
+
+
+{{< figure src="/authors/jens-kiesel/avatar.jpg#floatleft"  width="130" height="130"  alt="jens"  >}} 
+[__Dr. Jens Kiesel__](/authors/jens-kiesel/) is a hydrologic modeller with a long experience in the fields of hydrology, hydraulics, erosion and sediment transport as well as habitat modelling on various scales and ecoregions.
+
+
+<br/><br/>
+
 
 {{< figure src="/authors/longzhu-shen/avatar.jpg#floatleft"  width="130" height="130"  alt="longzhu"  >}} 
 [__Dr. Longzhu Shen__](/authors/longzhu-shen/) is a postdoc with a strong mathematical background, focusing on machine learning and GIS methods to optimize predictions of discharge and nutrients in stream networks.
