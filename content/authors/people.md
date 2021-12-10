@@ -50,12 +50,6 @@ date = "2012-09-05T00:00:00+02:00"
 [__Maria &Uuml;blacker__](/authors/maria-ueblacker/) is a PhD student working on a high-resolution freshwater habitat characterization across spatial scales, to highlight patterns and potential gaps in the global network of protected areas.
 
 
-<br/><br/>
-
-
-{{< figure src="/authors/annika-brunner/avatar.jpg#floatleft"  width="130" height="140"  alt="annika"  >}} 
-[__Annika Brunner__](/authors/annika-brunner/) is a master Student at Freie Universität Berlin and writes her master thesis at [IGB](https://www.igb-berlin.de/en/). Annika integrates Shared Socioeconomic Pathways (SSPs) into freshwater biodiversity projections. 
-
 
 <br/><br/>
 
@@ -97,18 +91,24 @@ __Previous members__
 
 
 {{< figure src="/authors/longzhu-shen/avatar.jpg#floatleft"  width="130" height="130"  alt="longzhu"  >}} 
-[__Dr. Longzhu Shen__](/authors/longzhu-shen/) is a postdoc with a strong mathematical background, focusing on machine learning and GIS methods to optimize predictions of discharge and nutrients in stream networks.
+[__Dr. Longzhu Shen__](/authors/longzhu-shen/) was a postdoc with a strong mathematical background, focusing on machine learning and GIS methods to optimize predictions of discharge and nutrients in stream networks.
 
 <br/><br/>
 
 {{< figure src="/authors/lydia-nass/avatar.jpg#floatleft"  width="130" height="130"  alt="lydia"  >}} 
-[__Lydia Nass__](/authors/lydia-nass/) did an master internship at [IGB](https://www.igb-berlin.de/en/), focusing on open-source geocomputational and species distribution modelling methods. 
+[__Lydia Nass__](/authors/lydia-nass/) did a master internship at [IGB](https://www.igb-berlin.de/en/), focusing on open-source geocomputational and species distribution modelling methods. 
 
 <br/><br/>
 
 
 {{< figure src="/authors/martin-friedrichs-manthay/avatar.jpg#floatleft"  width="130" height="130"  alt="martin"  >}} 
-[__Martin Friedrichs-Manthay__](https://martinfriedrichs.de/) is a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/) and co-supervised by Sami). 
+[__Martin Friedrichs-Manthay__](https://martinfriedrichs.de/) was a PhD student working on fish distribution models, assessing scale-dependencies and model uncertainties for conservation (funded by the [GLANCE project](http://www.glance-projects.eu/) and co-supervised by Sami). 
+
+<br/><br/>
+
+
+{{< figure src="/authors/annika-brunner/avatar.jpg#floatleft"  width="130" height="140"  alt="annika"  >}} 
+[__Annika Brunner__](/authors/annika-brunner/) was a master Student at Freie Universität Berlin and wrote her master thesis at [IGB](https://www.igb-berlin.de/en/). Annika integrated Shared Socioeconomic Pathways (SSPs) into freshwater biodiversity projections. 
 
 
 <br/><br/>
