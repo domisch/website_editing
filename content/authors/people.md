@@ -50,18 +50,17 @@ date = "2012-09-05T00:00:00+02:00"
 [__Maria &Uuml;blacker__](/authors/maria-ueblacker/) is a PhD student working on a high-resolution freshwater habitat characterization across spatial scales, to highlight patterns and potential gaps in the global network of protected areas.
 
 
+{{< figure src="/authors/gabriela-spriestersbach/avatar.jpg#floatleft"  width="130" height="140"  alt="gabriela"  >}} 
+[__Gabriela Spriestersbach__](/authors/gabriela-spriestersbach/) is a Bachelor student from the Tecnical University Darmstadt working as an Intern at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/).
 
 <br/><br/>
-
-
-{{< figure src="/authors/thomas-tomiczek/avatar.jpg#floatleft"  width="130" height="130"  alt="thomas"  >}} 
-[__Thomas Tomiczek__](/authors/thomas-tomiczek/) is a master student from the Humboldt University working on his master thesis at the [IGB](https://www.igb-berlin.de/en/). His thesis addresses integrating freshwater biodiversity in large scale conservation planning in Colombia. 
-
 
 <br/><br/><br/><br/><br/>
 
 
+
 ---
+
 
 __Visitors__
 
@@ -81,6 +80,13 @@ __Visitors__
 ---
 
 __Previous members__
+
+
+{{< figure src="/authors/thomas-tomiczek/avatar.jpg#floatleft"  width="130" height="130"  alt="thomas"  >}} 
+[__Thomas Tomiczek__](/authors/thomas-tomiczek/) did his master thesis at the Humboldt University working and the [IGB](https://www.igb-berlin.de/en/). His thesis addressed integrating freshwater biodiversity in large scale conservation planning in Colombia. 
+
+
+<br/><br/>
 
 
 {{< figure src="/authors/jens-kiesel/avatar.jpg#floatleft"  width="130" height="130"  alt="jens"  >}} 
