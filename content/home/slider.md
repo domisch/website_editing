@@ -19,21 +19,21 @@ interval = 4500
 
 
 [[item]]
-  title = "AI & Sustainable Development Goals"
-  content = "The role of artificial intelligence in achieving the SDGs"
+  title = "New hydrographic network"
+  content = "Hydrography90m: A new high-resolution global hydrographic dataset"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/AI_SDG_header.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/hydrograpyh90m.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Read the paper in Nature Communications"
-  cta_url = "https://www.nature.com/articles/s41467-019-14108-y"
+  cta_label = "Read the preprint in Earh System Science Data"
+  cta_url = "https://essd.copernicus.org/preprints/essd-2022-9/"
   cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 

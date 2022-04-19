@@ -5,7 +5,7 @@ linktitle: SDM test data
 menu:
   maps:
     parent: Maps & predictions
-    weight: 3
+    weight: 4
 title: Test data for freshwater distribution models
 toc: false
 type: docs
