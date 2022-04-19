@@ -85,6 +85,7 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 ---
 
 ##### __Funding and awards__ <br/>
+- Horizon Europe: Water Resources System Safe Operating Space in a Changing Climate and Society, Co-PI
 - Alexander von Humboldt Foundation: Co-host for Dr. Torres-Cambas' grant “Protecting the future of freshwater biodiversity and ecosystem services across Cuba” 
 - Leibniz Association and IGB: Leibniz Junior Research Group "Global freshwater biodiversity, biogeography and conservation (GLOWABIO)" (J45/2018), started in 2019 <br/>
 - German Research Foundation (DFG): Co-PI for grant 'Himalopsyche/QTP Region' (DO 1880_3-2) <br/>
@@ -95,6 +96,7 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 --- 
  
 ##### __Reviewer activities__ <br/>
+- Associate Editor of _Journal of Biogeography (since 2022)_ <br/>
 - Member of Editorial Advisory Board: _Limnologica, Global Change Biology (2014-2017)_ <br/>
 - Funding agencies: Natural Sciences and Engineering Research Council of Canada (NSERC), German Centre for Integrative Biodiversity Research (iDiv), GO-IN-Goethe International Post-Doc Programme (Goethe Universität Frankfurt, Germany), National Research Foundation of South Africa, Dutch Research Council <br/>
 - Journal referee: _Aquatic Sciences, Biological Conservation, Biology Letters, Biological Invasions, Diversity & Distributions, Ecography, Ecohydrology, Ecological Applications, Ecological Engineering, Ecological Indicators, Ecological Modelling, Freshwater Biology, Freshwater Science, Fundamental and Applied Limnology (Guest Editor), Global Change Biology (Advisory Board member 2013-2017), Global Ecology and Conservation, Hydrobiologia, Integrative Zoology, Journal of Applied Ecology, Journal of Biogeography, Journal of Environmental Management, Knowledge and Management of Aquatic Ecosystems, Landscape Ecology, Limnetica, Limnologica, Marine Ecology Progress Series, Methods in Ecology & Evolution, Scientific Data, Scientific Reports, PLoS ONE, The Science of Nature, WIREs Climate Change_ <br/>
