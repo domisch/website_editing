@@ -40,16 +40,16 @@ interval = 4500
 
 
 [[item]]
-  title = "Machine learning framework"
-  content = "Modelling nitrogen and phosphorus concentrations in streams and rivers"
+  title = "Freshwater biodiversity research"
+  content = "A global agenda for advancing freshwater biodiversity research"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/nitrogen_phosphorus.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/global_agenda.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
  cta_label = "Read the paper here"
-  cta_url = "https://www.nature.com/articles/s41597-020-0478-7"
+  cta_url = "https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13931"
   cta_icon_pack = "fas"
 
 

@@ -51,7 +51,7 @@ date = "2012-09-05T00:00:00+02:00"
 
 
 {{< figure src="/authors/gabriela-spriestersbach/avatar.jpg#floatleft"  width="130" height="140"  alt="gabriela"  >}} 
-[__Gabriela Spriestersbach__](/authors/gabriela-spriestersbach/) is a Bachelor student from the Tecnical University Darmstadt working as an Intern at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/).
+[__Gabriela Spriestersbach__](/authors/gabriela-spriestersbach/) is a Bachelor student from the Technical University Darmstadt working as an Intern at the [IGB](https://www.igb-berlin.de/en/). She is exploring methods in freshwater biodiversity data processing and species distribution modelling. 
 
 <br/><br/>
 

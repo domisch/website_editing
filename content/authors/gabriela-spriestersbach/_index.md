@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: BSc in Environmental Engineering
-    institution: Technische Univerität Darmstadt
+    institution: Technische Universität Darmstadt
     year: 2017-2022
 
 # Social/Academic Networking
@@ -62,12 +62,12 @@ user_groups:
 ---
 
 
-Gabriela Spriestersbach is a Bachelor student from the Tecnical University Darmstadt working as an Intern at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/).
+Gabriela Spriestersbach is a Bachelor student from the Technical University Darmstadt working as an Intern at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/).
 
 ---
 
 ##### __Career__ <br/>
-- since April 2022 - Internship at Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
+- since April 2022 - Internship at the Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
 - 2018-2019 - Student Assistent at IWAR, TU Darmstadt <br/>
 - 2018-2022 - Tutor at Tutor International (TU Darmstadt) <br/>
 
