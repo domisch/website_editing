@@ -1,7 +1,7 @@
 +++
 title = "Invasion impacts and dynamics of a European-wide introduced species"
 date = "2022-04-01"
-authors = ["Haubrock, P.J.", "Ahmed, D.A.", "Cuthbert, R.N." , "Stubbington, R.", "Domisch, S.", "Garcia Marquez, J.", "Beidas, A.", "Amatulli, G.", "Kiesel, J.", "Shen, L.Q.", "Soto, I.", "Bonada, N.", "Csabai, Z.", "Datry, T.", "de Eyto, E.", "Dohet, A.", "Drohan, E.",  "England, J.", "João Feio, M.", "Forio, M.A.E.", "Goethals, P.", "Graf, W.", "Heino, J.", "Hudgins, E.J.", "J&auml;hnig, S.C.", "Johnson. R.K.", "Larrañaga, A.", "Leitner, P.", "L'Hoste, L.", "Lizee, M.-H.", "Maire, A.", "Rasmussen, J.J. ", "Sch&auml;fer, R.B.", "Schmidt-Kloiber, A.", "Vannevel, R.", "Várbíró, G.", "Wiberg-Larsen, P.", "Haase, P."]
+authors = ["Haubrock, P.J.", "Ahmed, D.A.", "Cuthbert, R.N." , "Stubbington, R.", "__Domisch, S.__", "Garcia Marquez, J.", "Beidas, A.", "Amatulli, G.", "Kiesel, J.", "Shen, L.Q.", "Soto, I.", "Bonada, N.", "Csabai, Z.", "Datry, T.", "de Eyto, E.", "Dohet, A.", "Drohan, E.",  "England, J.", "João Feio, M.", "Forio, M.A.E.", "Goethals, P.", "Graf, W.", "Heino, J.", "Hudgins, E.J.", "J&auml;hnig, S.C.", "Johnson. R.K.", "Larrañaga, A.", "Leitner, P.", "L'Hoste, L.", "Lizee, M.-H.", "Maire, A.", "Rasmussen, J.J. ", "Sch&auml;fer, R.B.", "Schmidt-Kloiber, A.", "Vannevel, R.", "Várbíró, G.", "Wiberg-Larsen, P.", "Haase, P."]
 publication_types = ["2"]
 publication = "_Global Change Biology_, in press"
 publication_short = "_Global Change Biology_, in press"
