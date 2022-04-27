@@ -32,11 +32,12 @@ interval = 4500
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Read the preprint in Earh System Science Data"
-  cta_url = "https://essd.copernicus.org/preprints/essd-2022-9/"
+  cta_label = "Browse the data at here"
+  cta_url = "https://geo.igb-berlin.de/maps/351/view"
   cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 
+# https://essd.copernicus.org/preprints/essd-2022-9/
 
 
 [[item]]

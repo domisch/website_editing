@@ -14,7 +14,7 @@ type: docs
 A new global, high-resolution hydrographic dataset (see preprint by [Amatulli et al. 2022](https://essd.copernicus.org/preprints/essd-2022-9/)). Below the global "Strahler stream order" layer as an example.
 
 Data at 90m resolution available at the [IGB download repository](https://public.igb-berlin.de/index.php/s/agciopgzXjWswF4)
-{{<hydrography90m src="https://geo.igb-berlin.de/maps/350/view">}} 
+{{<hydrography90m src="https://geo.igb-berlin.de/maps/351/view">}} 
 
 
 
