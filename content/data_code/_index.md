@@ -15,7 +15,7 @@ banner:
   image: '/code.png'
 ---
 
-
+![](/code.png)
 
 Here is a collection of code and tutorials for spatial analyses in freshwater ecosystems, and we will be gradually adding more: 
 

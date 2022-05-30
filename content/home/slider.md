@@ -23,6 +23,8 @@ content:
         color: '#666'  # white is '#666'    #000  #000000
         brightness: 0.5
         media: '/headers/hydrograpyh90m.png'
+      link:
+        icon:
         icon_pack: fas
         text: Browse the data here
         url: 'https://geo.igb-berlin.de/maps/351/view'
@@ -34,6 +36,8 @@ content:
         color: '#666'  # white is '#666'
         brightness: 0.5
         media: '/headers/EPTO_database.png'
+      link:
+        icon:
         icon_pack: fas
         text: Browse the data here
         url: 'https://geo.igb-berlin.de/maps/562/view'
@@ -45,9 +49,12 @@ content:
         color: '#666'  # white is '#666'
         brightness: 0.5
         media: '/headers/topo_90m.png'
+      link:
+        icon: 
         icon_pack: fas
         text: Browse the variables at OpenLandMap
         url: 'https://www.openlandmap.org/#/?base=Stamen%20(OpenStreetMap)&center=26.8842,38.4204&zoom=3.294688713147893&opacity=40&layer=dtm_roughness_merit.dem_m'
+
 
 ---
 
