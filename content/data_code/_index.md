@@ -6,7 +6,7 @@ menu:
     name: Data & Code
     weight: 1
 title: Data & Code
-toc: true # table of contents on the right, if long text...
+toc: false # table of contents on the right, if long text...
 type: book
 
 # Optional header image (relative to `static/media/` folder).
@@ -24,7 +24,7 @@ Here is a collection of code and tutorials for spatial analyses in freshwater ec
 - [A quick guide of using open-source GIS tools using the Linux command-line](/data_code/open-source-gis)
 - [Bayesian hierarchical species distribution models](/data_code/bayesian-species-distribution-models)
 
-If you have any questions or noticed any bugs in the code please [drop us a line](mailto:domisch@igb-berlin.de?subject=[glowabio]%20Data%20%26%20code ).
+If you have any questions or noticed any bugs in the code please [drop us a line](mailto:sami.domisch@igb-berlin.de?subject=[glowabio]%20Data%20%26%20code ).
 
 
 

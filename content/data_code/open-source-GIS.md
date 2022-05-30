@@ -5,9 +5,9 @@ linktitle: Open-source GIS
 menu:
   data_code:
     parent: Data & Code
-    weight: 3
+    weight: 30
 title: Open-source GIS
-toc: true
+toc: false
 type: book
 ---
 

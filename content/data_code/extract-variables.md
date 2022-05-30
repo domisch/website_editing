@@ -5,9 +5,9 @@ linktitle: Extract raster values
 menu:
   data_code:
     parent: Data & Code
-    weight: 2
+    weight: 20
 title: Extract raster values
-toc: true
+toc: false
 type: book
 ---
 
