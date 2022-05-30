@@ -17,6 +17,10 @@ subtitle = "Check out the [latest publications](/publication/)"
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["40px", "0", "0px", "0"]
 
+  # Background image.
+   image = "everglades.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
   
 [advanced]
  # Custom CSS. 

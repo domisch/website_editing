@@ -1,14 +1,9 @@
 ---
-draft: true
 # Display name
-name: Dr. Sami Domisch 
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Dr. Sami Domisch 
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Junior Research Group Leader 
@@ -27,6 +22,7 @@ interests:
 - Macroecology
 - Conservation planning
 - Biodiversity informatics
+- Geo-informatics
 
 education:
   courses:
@@ -66,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Current team
 ---
 
 

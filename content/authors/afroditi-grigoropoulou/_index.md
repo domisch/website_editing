@@ -1,11 +1,10 @@
 ---
-draft: true
 # Display name
-name: Afroditi Grigoropoulou
+title: Afroditi Grigoropoulou
 
 # Username (this should match the folder name)
 authors:
-- grigoropoulou
+- afroditi-grigoropoulou
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,7 +22,8 @@ organizations:
 bio: 
 
 interests:
-- Biodiversity, Ecology and Evolution
+- Freshwater biodiversity
+- Ecology and Evolution
 - Species Distribution Modelling
 - Geo-informatics
 
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Current team
 ---
 
 

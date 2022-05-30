@@ -1,11 +1,10 @@
 ---
-draft: true
 # Display name
-name: Dr. Jaime R. Garcia Marquez
+title: Dr. Jaime R. Garcia Marquez
 
 # Username (this should match the folder name)
 authors:
-- jaime-garcia
+- jaime-garcia-marquez
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,7 +22,8 @@ organizations:
 bio: 
 
 interests:
-- Biodiversity and Ecosystem Services research
+- Freshwater biodiversity
+- Ecosystem services
 - Conservation planning
 - Geo-informatics
 
@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Current team
 ---
 
 

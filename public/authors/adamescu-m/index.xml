@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adamescu, M. | Global freshwater biodiversity research</title>
+    <link>/authors/adamescu-m./</link>
+      <atom:link href="/authors/adamescu-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Adamescu, M.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Adamescu, M.</title>
+      <link>/authors/adamescu-m./</link>
+    </image>
+    
+    <item>
+      <title>Safeguarding freshwater life beyond 2020: Recommendations for the new global biodiversity framework from the European experience</title>
+      <link>/publication/pubs/2021-01-01_safeguarding-freshwater/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pubs/2021-01-01_safeguarding-freshwater/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

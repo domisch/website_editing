@@ -1,19 +1,20 @@
 ---
-date: "2020-07-01T00:00:00+02:00"
+date: "2022-05-27T00:00:00+02:00"
 draft: false
 linktitle: Freshwater variables
 menu:
   data_code:
     parent: Data & Code
+    identifier: data_code
     weight: 1
 title: Freshwater-specific environmental variables
-toc: false
+toc: true
 type: docs
 ---
 
 This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons _r.stream.watersheds_ & _r.stream.variables_. The original 1km data and publication are available [here](http://www.earthenv.org/streams) - see also the original code from [spatial-ecology.net](http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable).
 
-[![Add-on animation](/img/Add-ons_for_GRASS_GIS.gif)](http://www.earthenv.org/streams)
+[![Add-on animation](/Add-ons_for_GRASS_GIS.gif)](http://www.earthenv.org/streams)
 
 
 
@@ -28,9 +29,9 @@ __This example contains the following steps:__
 - Calculate the sub-watersheds for each stream grid cell (_r.stream.watersheds_)
 - Calculate contiguous stream-specific variables (_r.stream.variables_)
 
-{{% alert note %}}
+{{% callout note %}}
 The add-ons have been tested in the Linux environment. Microsoft Windows users: consider installing the OSGEO-Live Virtual machine that has GRASS GIS 7 already installed and is ready to use. Alternatively you can run the add-ons via QGIS.
-{{% /alert %}}
+{{% /callout %}}
 
 
 <br/>
@@ -213,11 +214,12 @@ Print only catchment statistics:
 r.stream.stats  stream_rast=stream   direction=drainage   elevation=elevation_cond  output=str_stats_c.txt    -c 
 more $INDIR/str_stats_c.txt
 ```
-
 <br/>
-_See also these useful GRASS-GIS commands for hydrological applications:_
+
+__See also these useful GRASS-GIS commands for hydrological applications:__
 
 https://grass.osgeo.org/grass78/manuals/topic_hydrology.html
 https://grasswiki.osgeo.org/wiki/R.stream.*_modules <br/>
 https://grasswiki.osgeo.org/wiki/Hydrological_Sciences 
 
+<br/>

@@ -1,7 +1,6 @@
 ---
-draft: true
 # Display name
-name: Dr. Jens Kiesel
+title: Dr. Jens Kiesel
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Hydrologic Modeller
+role: Postdoc at Uni Kiel
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
@@ -23,9 +22,9 @@ organizations:
 bio: 
 
 interests:
-- hydrologic and hydraulic modelling
-- climate change uncertainty
-- spatial programming
+- Hydrologic and hydraulic modelling
+- Climate change uncertainty
+- Spatial programming
 
 education:
   courses:
@@ -43,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:kiesel@igb-berlin.de  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:jkiesel@hydrology.uni-kiel.de  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=Stb2bLcAAAAJ
@@ -62,7 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Previous members
 ---
 
 

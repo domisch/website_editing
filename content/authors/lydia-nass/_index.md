@@ -1,7 +1,6 @@
 ---
-draft: true
 # Display name
-name: Lydia Nass
+title: Lydia Nass
 # Username (this should match the folder name)
 authors:
 - lydia-nass
@@ -61,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Previous members
 ---
 
 

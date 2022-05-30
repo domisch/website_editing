@@ -1,7 +1,6 @@
 ---
-draft: true
 # Display name
-name: Thomas Tomiczek
+title: Thomas Tomiczek
 # Username (this should match the folder name)
 authors:
 - thomas-tomiczek
@@ -10,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student
+role: Researcher
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
@@ -61,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Current team
 ---
 
 

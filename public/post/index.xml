@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Global freshwater biodiversity, biogeography &amp; conservation (GLOWABIO) | Global freshwater biodiversity research</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Global freshwater biodiversity, biogeography &amp; conservation (GLOWABIO)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/post/featured.png</url>
+      <title>Global freshwater biodiversity, biogeography &amp; conservation (GLOWABIO)</title>
+      <link>/post/</link>
+    </image>
+    
+  </channel>
+</rss>

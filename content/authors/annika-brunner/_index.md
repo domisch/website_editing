@@ -1,7 +1,6 @@
 ---
-draft: true
 # Display name
-name: Annika Brunner
+title: Annika Brunner
 # Username (this should match the folder name)
 authors:
 - annika-brunner
@@ -10,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student
+role: MSc Student
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
@@ -64,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Previous members
 ---
 
 

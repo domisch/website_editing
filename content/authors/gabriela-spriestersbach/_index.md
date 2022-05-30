@@ -1,7 +1,6 @@
 ---
-draft: true
 # Display name
-name: Gabriela Spriestersbach
+title: Gabriela Spriestersbach
 # Username (this should match the folder name)
 authors:
 - gabriela-spriestersbach
@@ -10,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Intern
+role: BSc student
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
@@ -58,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Current team
 ---
 
 

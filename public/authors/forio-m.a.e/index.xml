@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forio, M.A.E. | Global freshwater biodiversity</title>
+    <link>/authors/forio-m.a.e./</link>
+      <atom:link href="/authors/forio-m.a.e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Forio, M.A.E.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Forio, M.A.E.</title>
+      <link>/authors/forio-m.a.e./</link>
+    </image>
+    
+    <item>
+      <title>Invasion impacts and dynamics of a European-wide introduced species</title>
+      <link>/publication/pubs/2022-04-01_invasion_curve/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pubs/2022-04-01_invasion_curve/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

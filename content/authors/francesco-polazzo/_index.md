@@ -1,7 +1,6 @@
 ---
-draft: true
 # Display name
-name: Francesco Polazzo
+title: Francesco Polazzo
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: lab visitor
+role: visiting PhD student
 # Organizations/Affiliations
 organizations: 
 - name: IMDEA Water institute 
@@ -63,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Visitors
 ---
 
 Francesco Polazzo is PhD student in the Ecotoxicology group at the [IMDEA Water Institute of Alcalá de Henares, Madrid](https://www.water.imdea.org/). Francesco is part of the [ITN project ECORISk2050](https://ecorisk2050.eu/). Within this project, he is studying how climate change in combination with others drivers of environmental change (pesticides, eutrophication, changes in hydrology) affect the stability and the vulnerability of aquatic communities.

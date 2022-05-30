@@ -1,96 +1,53 @@
-+++
-# Slider widget.
-widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
-title = "Highlights slider"
+---
+widget: slider  # Use the Slider widget as this page section
+weight: 50  # Position of this section on the page
+active: true  # Publish this section?
+headless: true  # This file represents a page section.
 
+design:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
+  slide_height: ''
+  is_fullscreen: true
+  # Automatically transition through slides?
+  loop: true
+  # Duration of transition between slides (in ms)
+  interval: 5000
 
-# Slide interval.
-# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 4500
+content:
+  slides:
+    - title: New hydrographic network
+      content: Hydrography90m - A new high-resolution global hydrographic dataset
+      align: center
+      background: 
+        position: center
+        color: '#666'  # white is '#666'    #000  #000000
+        brightness: 0.5
+        media: '/headers/hydrograpyh90m.png'
+        icon_pack: fas
+        text: Browse the data here
+        url: 'https://geo.igb-berlin.de/maps/351/view'
+    - title: The new EPTO database
+      content: Global aquatic insect occurences
+      align: center
+      background: 
+        position: center
+        color: '#666'  # white is '#666'
+        brightness: 0.5
+        media: '/headers/EPTO_database.png'
+        icon_pack: fas
+        text: Browse the data here
+        url: 'https://geo.igb-berlin.de/maps/562/view'
+    - title: New topographical data
+      content: Geomorpho90m - New global 90m topographical variables
+      align: center
+      background:
+        position: center
+        color: '#666'  # white is '#666'
+        brightness: 0.5
+        media: '/headers/topo_90m.png'
+        icon_pack: fas
+        text: Browse the variables at OpenLandMap
+        url: 'https://www.openlandmap.org/#/?base=Stamen%20(OpenStreetMap)&center=26.8842,38.4204&zoom=3.294688713147893&opacity=40&layer=dtm_roughness_merit.dem_m'
 
-# Slides.
-# Duplicate an `[[item]]` block to add more slides.
-
-
-
-
-
-[[item]]
-  title = "New hydrographic network"
-  content = "Hydrography90m: A new high-resolution global hydrographic dataset"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/hydrograpyh90m.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Browse the data at here"
-  cta_url = "https://geo.igb-berlin.de/maps/351/view"
-  cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
-
-# https://essd.copernicus.org/preprints/essd-2022-9/
-
-
-[[item]]
-  title = "Freshwater biodiversity research"
-  content = "A global agenda for advancing freshwater biodiversity research"
-  align = "center"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/global_agenda.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
- cta_label = "Read the paper here"
-  cta_url = "https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13931"
-  cta_icon_pack = "fas"
-
-
-[[item]]
-  title = "Conservation planning"
-  content = "Spatially explicit species distribution models improve the spatial prioritization"
-  align = "center"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/gurobi_delta.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
- cta_label = "Read the paper here"
-  cta_url = "https://onlinelibrary.wiley.com/doi/10.1111/ddi.12891"
-  cta_icon_pack = "fas"
-
-
-
-
-[[item]]
-  title = "New dataset"
-  content = "Geomorpho90m - New global 90m topographical variables"
-  align = "center"
-
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/topo_90m.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-
-  cta_label = "Browse the variables at LandGIS"
-  cta_url = "https://landgis.opengeohub.org/#/?base=Stamen%20(OpenStreetMap)&center=47.1754,20.7857&zoom=4&opacity=80&layer=dtm_dev-scale_merit.dem_m"
-  cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
-
-
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["10px", "0", "10px", "0"]
-
-
-+++
+---
 

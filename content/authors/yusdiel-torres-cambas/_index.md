@@ -1,7 +1,6 @@
 ---
-draft: true
 # Display name
-name: Dr. Yusdiel Torres Cambas
+title: Dr. Yusdiel Torres Cambas
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: postdoc
+role: Alexander von Humboldt postdoc fellow
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
@@ -67,11 +66,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Current team
 ---
 
 
-Yusdiel Torres Cambas is a postdoc at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/) and at the [Institute of Geoecology, TU Braunschweig]("https://www.tu-braunschweig.de/en/geooekologie"). He is working to assess the protection offered by the Cuban protected area system to freshwater biodiversity and to the supply of freshwater ecosystem services, considering the present conditions and future climate and land use/land cover change scenarios.
+Dr. Yusdiel Torres Cambas is a postdoc at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/) and at the [Institute of Geoecology, TU Braunschweig]("https://www.tu-braunschweig.de/en/geooekologie"). He is working to assess the protection offered by the Cuban protected area system to freshwater biodiversity and to the supply of freshwater ecosystem services, considering the present conditions and future climate and land use/land cover change scenarios.
 
 ---
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Near, T.J. | Global freshwater biodiversity research</title>
+    <link>/authors/near-t.j./</link>
+      <atom:link href="/authors/near-t.j./index.xml" rel="self" type="application/rss+xml" />
+    <description>Near, T.J.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Near, T.J.</title>
+      <link>/authors/near-t.j./</link>
+    </image>
+    
+    <item>
+      <title>Integrative species delimitation: testing the efficacy of the multispecies coalescent model in the Greenthroat Darter complex (Percidae: Etheostomatinae)</title>
+      <link>/publication/pubs/2021-01-01_integrative-species-delimitation/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pubs/2021-01-01_integrative-species-delimitation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

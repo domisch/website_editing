@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weyl, O.L.F. | Global freshwater biodiversity research</title>
+    <link>/authors/weyl-o.l.f./</link>
+      <atom:link href="/authors/weyl-o.l.f./index.xml" rel="self" type="application/rss+xml" />
+    <description>Weyl, O.L.F.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Weyl, O.L.F.</title>
+      <link>/authors/weyl-o.l.f./</link>
+    </image>
+    
+    <item>
+      <title>Twenty-five essential research questions to inform the protection and restoration of freshwater biodiversity</title>
+      <link>/publication/pubs/2021-01-01_twenty-five_essential/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pubs/2021-01-01_twenty-five_essential/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

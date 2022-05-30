@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fohrer, N. | Global freshwater biodiversity research</title>
+    <link>/authors/fohrer-n./</link>
+      <atom:link href="/authors/fohrer-n./index.xml" rel="self" type="application/rss+xml" />
+    <description>Fohrer, N.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Fohrer, N.</title>
+      <link>/authors/fohrer-n./</link>
+    </image>
+    
+    <item>
+      <title>Modelling of riverine ecosystems by integrating models: conceptual approach, a case study and research agenda</title>
+      <link>/publication/pubs/2012-01-01_modelling_of_riverine/</link>
+      <pubDate>Tue, 20 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pubs/2012-01-01_modelling_of_riverine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrierte Modellierung von aquatischen Ökosystemen in China: Arealbestimmung von Makrozoobenthos auf Einzugsgebietsebene - Integrated modelling of aquatic ecosystems in China: Distribution of benthic macroinvertebrates at catchment scale</title>
+      <link>/publication/pubs/2012-01-01_integrierte_modellierung/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pubs/2012-01-01_integrierte_modellierung/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

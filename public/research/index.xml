@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Global freshwater biodiversity</title>
+    <link>/research/</link>
+      <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Researches</title>
+      <link>/research/</link>
+    </image>
+    
+    <item>
+      <title>Biodiversity patterns</title>
+      <link>/research/glowabio_biodiversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/glowabio_biodiversity/</guid>
+      <description>&lt;p&gt;Global biodiversity is declining rapidly worldwide, and among terrestrial, marine and freshwater ecosystems, freshwaters are particularly vulnerable. These fragmented ecosystems cover less than 1% of the Earth’s surface, yet they harbour approximately 10% of all described species.
+Aquatic insects contribute to freshwater diversity by approximately 60% as the largest and most diverse taxa group, and given this substantial proportion, aquatic insects may be considered as a proxy for freshwater biodiversity and ecological state of a given habitat.
+We will use latest methods in species distribution modelling and spatial biodiversity science to analyze diversity patterns of this taxa group across the globe.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Freshwater habitat regionalization</title>
+      <link>/research/glowabio_habitats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/glowabio_habitats/</guid>
+      <description>&lt;p&gt;A first step towards global freshwater biodiversity assessments is a comprehensive quantification of the variety of habitat types. We aim to characterize the variety and distribution of global freshwater habitats at a high spatial resolution, to perfrom a regionalization analysis, and to provide environmental correlates of spatial biodiversity patterns.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial conservation planning</title>
+      <link>/research/glowabio_conservation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/glowabio_conservation/</guid>
+      <description>&lt;p&gt;Current freshwater conservation efforts fall short in effectively protecting freshwater biodiversity. Acknowledging the challenge in freshwater conservation management, further assessments are needed regarding the efficiency of conservation planning. We aim to analyze global, systematic conservation planning networks given the key features habitat and biodiversity to (i) highlight areas of irreplaceability within freshwater ecosystems, and (ii) to compare the effectiveness of present-day conservation efforts vs. alternative, prioritized freshwater conservation planning solutions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

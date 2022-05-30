@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Balint, M. | Global freshwater biodiversity research</title>
+    <link>/authors/balint-m./</link>
+      <atom:link href="/authors/balint-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Balint, M.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Balint, M.</title>
+      <link>/authors/balint-m./</link>
+    </image>
+    
+    <item>
+      <title>Cryptic biodiversity loss linked to global climate change</title>
+      <link>/publication/pubs/2011-01-01_cryptic_biodiversity/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/pubs/2011-01-01_cryptic_biodiversity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

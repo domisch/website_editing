@@ -1,7 +1,6 @@
 ---
-draft: true
 # Display name
-name: Dr. Mathieu Floury
+title: Dr. Mathieu Floury
 
 # Username (this should match the folder name)
 authors:
@@ -71,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Visitors
 ---
 
 
