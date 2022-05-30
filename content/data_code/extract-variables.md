@@ -7,8 +7,8 @@ menu:
     parent: Data & Code
     weight: 2
 title: Extract raster values
-toc: false
-type: docs
+toc: true
+type: book
 ---
 
 Here are some useful commands to move point records to a stream network and to extract the values for each point. The code is maintained on GitHub at  https://github.com/domisch/stream_layers.

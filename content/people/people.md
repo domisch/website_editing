@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the GLOWABIO Team
+title: Meet the team
 subtitle:
 
 content:
@@ -17,7 +17,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   #  - Principal Investigators
-    - Current team
+    - " "
   #  - Grad Students
   #  - Administration
     - Visitors

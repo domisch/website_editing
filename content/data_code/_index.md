@@ -1,5 +1,5 @@
 ---
-date: "2020-07-02T00:00:00+02:00"
+date: "2022-05-27T00:00:00+02:00"
 draft: false
 menu:
   data_code:
@@ -7,7 +7,7 @@ menu:
     weight: 1
 title: Data & Code
 toc: true # table of contents on the right, if long text...
-type: docs
+type: book
 
 # Optional header image (relative to `static/media/` folder).
 banner:

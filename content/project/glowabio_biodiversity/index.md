@@ -1,5 +1,5 @@
 ---
-title: Biodiversity patterns
+title: Freshwater biodiversity patterns
 summary: Modeling and mapping the distribution of aquatic insects
 tags:
 - Freshwater biodiversity
@@ -32,6 +32,12 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
+authors:
+  - afroditi-grigoropoulou
+  - jaime-garcia-marquez
+  - admin
+
 ---
 
 Global biodiversity is declining rapidly worldwide, and among terrestrial, marine and freshwater ecosystems, freshwaters are particularly vulnerable. These fragmented ecosystems cover less than 1% of the Earth’s surface, yet they harbour approximately 10% of all described species. 

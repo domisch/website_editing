@@ -32,6 +32,19 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
+authors:
+  - giuseppe-amatulli
+  - longzhu-shen
+  - jens-kiesel
+  - jaime-garcia-marquez
+  - afroditi-grigoropoulou
+  - maria-ueblacker
+  - admin
+
+
+
+
 ---
 
 

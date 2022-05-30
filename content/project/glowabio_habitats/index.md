@@ -31,6 +31,12 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
+authors:
+  - maria-ueblacker
+  - jaime-garcia-marquez
+  - admin
+
 ---
 
 A first step towards global freshwater biodiversity assessments is a comprehensive quantification of the variety of habitat types. We aim to characterize the variety and distribution of global freshwater habitats at a high spatial resolution, to perfrom a regionalization analysis, and to provide environmental correlates of spatial biodiversity patterns.

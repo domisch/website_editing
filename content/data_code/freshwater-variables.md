@@ -5,11 +5,10 @@ linktitle: Freshwater variables
 menu:
   data_code:
     parent: Data & Code
-    identifier: data_code
     weight: 1
 title: Freshwater-specific environmental variables
 toc: true
-type: docs
+type: book
 ---
 
 This tutorial shows you how to calculate stream-specific freshwater variables by relating the upstream e.g. land cover to any given downstream location using the GRASS GIS add-ons _r.stream.watersheds_ & _r.stream.variables_. The original 1km data and publication are available [here](http://www.earthenv.org/streams) - see also the original code from [spatial-ecology.net](http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable).

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "We focus on these core topics:"
-subtitle = "See other research topics under [Research](/project)"
+# subtitle = "See other research topics under [Research](/project)"
 
 [content]
   # Page type to display. E.g. project.
