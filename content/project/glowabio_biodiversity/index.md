@@ -51,7 +51,7 @@ We have collated, together with nearly 100 co-authors, a global database of Ephe
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://geo.igb-berlin.de/maps/562/view" min-width : 900px ; style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="EPTO database" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://geo.igb-berlin.de/maps/562/embed" min-width : 900px ; style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="EPTO database" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 -----
