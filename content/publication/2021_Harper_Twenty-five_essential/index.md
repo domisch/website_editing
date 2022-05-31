@@ -35,7 +35,7 @@ authors:
   - D. Tickner
   - E. Turak
   - O.L.F. Weyl
-  - S.J. Cooke.
+  - S.J. Cooke
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'

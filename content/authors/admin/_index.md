@@ -85,7 +85,7 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 
 ##### __Funding and awards__ <br/>
 - Horizon Europe: Water Resources System Safe Operating Space in a Changing Climate and Society, Co-PI (101059264)
-- NFDI Pilot project: Getting freshwater spatiotemporal data on track
+- NFDI Pilot project (DFG): Getting freshwater spatiotemporal data on track
 - Alexander von Humboldt Foundation: Co-host for Dr. Torres-Cambas' grant “Protecting the future of freshwater biodiversity and ecosystem services across Cuba” (Ref 3.2 - 1212347 - CUB - GF-P)
 - Leibniz Association and IGB: Leibniz Junior Research Group "Global freshwater biodiversity, biogeography and conservation (GLOWABIO)" (J45/2018), started in 2019 <br/>
 - German Research Foundation (DFG): Co-PI for grant 'Himalopsyche/QTP Region' (DO 1880_3-2) <br/>
@@ -96,11 +96,16 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 --- 
  
 ##### __Reviewer activities__ <br/>
-- Contributing author in [Working Group II (Impacts, Adaptation, Vulnerability) of the IPCC Sixth Assessment Report](https://www.ipcc.ch/report/ar6/wg2/), Chapter 2 on "Terrestrial and Freshwater Ecosystems and their Services
-- Associate Editor of _Journal of Biogeography_ (since 2022)_ <br/>
-- Member of Editorial Advisory Board: _Limnologica_ (since 2014), _Global Change Biology_ (2014-2017) <br/>
-- Funding agencies: Natural Sciences and Engineering Research Council of Canada (NSERC), German Centre for Integrative Biodiversity Research (iDiv), GO-IN-Goethe International Post-Doc Programme (Goethe Universität Frankfurt, Germany), National Research Foundation of South Africa, Dutch Research Council <br/>
-- Journal referee: _Aquatic Sciences, Biological Conservation, Biology Letters, Biological Invasions, Diversity & Distributions, Ecography, Ecohydrology, Ecological Applications, Ecological Engineering, Ecological Indicators, Ecological Modelling, Freshwater Biology, Freshwater Science, Fundamental and Applied Limnology (Guest Editor), Global Change Biology (Advisory Board member 2013-2017), Global Ecology and Conservation, Hydrobiologia, Integrative Zoology, Journal of Applied Ecology, Journal of Biogeography, Journal of Environmental Management, Knowledge and Management of Aquatic Ecosystems, Landscape Ecology, Limnetica, Limnologica, Marine Ecology Progress Series, Methods in Ecology & Evolution, Scientific Data, Scientific Reports, PLoS ONE, The Science of Nature, WIREs Climate Change_ <br/>
+- Associate Editor of [_Journal of Biogeography_](https://onlinelibrary.wiley.com/journal/13652699) (since 2022) <br/>
+- Member of Editorial Board of [_Scientific Data_](https://www.nature.com/sdata/) (since 2022)
+- Member of Editorial Advisory Board of [_Limnologica_](https://www.sciencedirect.com/journal/limnologica) (since 2014) and [_Global Change Biology_](https://onlinelibrary.wiley.com/journal/13652486) (2014-2017) <br/>
+<br/>
+
+- Contributing author in [Working Group II (Impacts, Adaptation, Vulnerability) of the IPCC Sixth Assessment Report](https://www.ipcc.ch/report/ar6/wg2/), Chapter 2 on "Terrestrial and Freshwater Ecosystems and their Services <br/><br/>
+
+- __Funding agencies:__ Natural Sciences and Engineering Research Council of Canada (NSERC), German Centre for Integrative Biodiversity Research (iDiv), GO-IN-Goethe International Post-Doc Programme (Goethe Universität Frankfurt, Germany), National Research Foundation of South Africa, Dutch Research Council <br/><br/>
+
+- __Journal referee:__ _Aquatic Sciences, Biological Conservation, Biology Letters, Biological Invasions, Diversity & Distributions, Ecography, Ecohydrology, Ecological Applications, Ecological Engineering, Ecological Indicators, Ecological Modelling, Freshwater Biology, Freshwater Science, Fundamental and Applied Limnology (Guest Editor), Global Change Biology (Advisory Board member 2013-2017), Global Ecology and Conservation, Hydrobiologia, Integrative Zoology, Journal of Applied Ecology, Journal of Biogeography, Journal of Environmental Management, Knowledge and Management of Aquatic Ecosystems, Landscape Ecology, Limnetica, Limnologica, Marine Ecology Progress Series, Methods in Ecology & Evolution, Scientific Data, Scientific Reports, PLoS ONE, The Science of Nature, WIREs Climate Change_ <br/>
 
 
 
