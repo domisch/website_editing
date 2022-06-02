@@ -129,15 +129,15 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Map
+  url: https://geo.igb-berlin.de/maps/562/view
 
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://fred.igb-berlin.de/data/package/725'
 url_poster: ''
-url_project: '/project/EPTO_database'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -155,7 +155,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  # - example
+  - EPTO_database
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

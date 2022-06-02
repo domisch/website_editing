@@ -45,15 +45,15 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Map
+  url: https://geo.igb-berlin.de/maps/351/view/
 
 url_pdf: 'https://doi.org/10.5194/essd-2022-9'
 url_code: ''
 url_dataset: 'https://public.igb-berlin.de/index.php/s/agciopgzXjWswF4'
 url_poster: ''
-url_project: 'https://geo.igb-berlin.de/maps/new?layer=geonode:hydrography90m_v1_stream_order_strahler_cog&view=True'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: 'https://av.tib.eu/media/56343'
@@ -72,7 +72,7 @@ url_map: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  # - example
+  - hydrography90m
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

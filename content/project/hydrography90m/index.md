@@ -61,5 +61,3 @@ Check out the paper in  [_Earth System Science Data_](https://essd.copernicus.or
 </div>
 
 
-
-

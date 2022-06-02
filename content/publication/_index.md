@@ -14,8 +14,8 @@ view: citation
 
 # Optional header image (relative to `static/media/` folder).
 banner:
-  caption: ''
-  image: '/citation_map_Aug20.png'
+  caption: 'Citation map derived from Publons'
+  image: '/citation_map_Jun22.png'
 ---
 
 Most publications are available as a pdf. If you do not have access to a specific publication please [email us](mailto:sami.domisch@igb-berlin.de?subject=[glowabio]%20Paper%20request) with the reference and we will send you a copy.
