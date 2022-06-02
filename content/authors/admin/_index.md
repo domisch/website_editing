@@ -101,7 +101,7 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 - Member of Editorial Advisory Board of [_Limnologica_](https://www.sciencedirect.com/journal/limnologica) (since 2014) and [_Global Change Biology_](https://onlinelibrary.wiley.com/journal/13652486) (2014-2017) <br/>
 <br/>
 
-- Contributing author in [Working Group II (Impacts, Adaptation, Vulnerability) of the IPCC Sixth Assessment Report](https://www.ipcc.ch/report/ar6/wg2/), Chapter 2 on "Terrestrial and Freshwater Ecosystems and their Services <br/><br/>
+- Contributing author in [Working Group II (Impacts, Adaptation, Vulnerability) of the IPCC Sixth Assessment Report](https://www.ipcc.ch/report/ar6/wg2/), Chapter 2 on "Terrestrial and Freshwater Ecosystems and their Services" <br/><br/>
 
 - __Funding agencies:__ Natural Sciences and Engineering Research Council of Canada (NSERC), German Centre for Integrative Biodiversity Research (iDiv), GO-IN-Goethe International Post-Doc Programme (Goethe Universität Frankfurt, Germany), National Research Foundation of South Africa, Dutch Research Council <br/><br/>
 
