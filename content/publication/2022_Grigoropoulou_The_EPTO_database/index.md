@@ -92,7 +92,7 @@ authors:
   - Y. Torres-Cambas
   - C. Townsend
   - E. Turak
-  - L- Twardochleb
+  - L. Twardochleb
   - B. Wang
   - L. Yanygina
   - C. Zamora-Muñoz
