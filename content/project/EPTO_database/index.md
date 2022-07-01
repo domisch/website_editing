@@ -49,13 +49,12 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
 
 -----
 
-We have collated, together with nearly 100 co-authors, a global database of Ephemeroptera, Plecoptera, Trichoptera and Odonata (EPTO) occurrences comprising more than 8 million records. The data can be downloaded [here](https://fred.igb-berlin.de/data/package/725) and visualized [here](https://geo.igb-berlin.de/maps/562/view). 
+We have collated, together with nearly 100 co-authors, a global database of Ephemeroptera, Plecoptera, Trichoptera and Odonata (EPTO) occurrences comprising more than 8 million records. The data can be downloaded [here](https://fred.igb-berlin.de/data/package/725) and visualized [here](https://geo.igb-berlin.de/maps/609/view). 
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://geo.igb-berlin.de/maps/562/embed" min-width : 900px ; style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="EPTO database" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://geo.igb-berlin.de/maps/609/embed" min-width : 900px ; style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="EPTO database" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
 
 
 -----
