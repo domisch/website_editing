@@ -44,6 +44,8 @@ authors:
 
 ---
 
+__>> [Click here for the visualization](https://geo.igb-berlin.de/maps/609/view) <<__
+
 Global biodiversity is declining rapidly worldwide, and among terrestrial, marine and freshwater ecosystems, freshwaters are particularly vulnerable. These fragmented ecosystems cover less than 1% of the Earth’s surface, yet they harbour approximately 10% of all described species. 
 Aquatic insects contribute to freshwater diversity by approximately 60% as the largest and most diverse taxa group, and given this substantial proportion, aquatic insects may be considered as a proxy for freshwater biodiversity and ecological state of a given habitat. 
 

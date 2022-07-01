@@ -40,7 +40,7 @@ content:
         icon:
         icon_pack: fas
         text: Browse the data here
-        url: 'https://geo.igb-berlin.de/maps/562/view'
+        url: 'https://geo.igb-berlin.de/maps/609/view'
     - title: New topographical data
       content: Geomorpho90m - New global 90m topographical variables
       align: center

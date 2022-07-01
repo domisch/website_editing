@@ -44,6 +44,8 @@ authors:
 
 Thesis topic: _Influence of land-cover on suitable fish habitats in Colombia’s inland waters considering the "Shared Socioeconomic Pathway (SSP)" scenarios_
 
+__>> [Click here for the visualization](https://geo.igb-berlin.de/maps/626/view) <<__
+
 Freshwater ecosystems are becoming increasingly degraded and freshwater species diversity is declining drastically. Anthropological influences, such as land-cover change, play an important role in these processes. In Latin America, freshwater fish show high rates of diversity and endemism. At the same time, ecosystems in Latin America are threatened by high rates of land-cover change. Therefore, Colombia, endowed with a great habitat diversity and species richness due to a combination of altitude, climate and geographic location, but also distinct land-cover dynamics, was chosen as a case study for this work.
 
 The objective of the thesis was (i) to consider the land-cover types prevalent, past trends of land-cover change and future land-cover changes projected according to the shared socioeconomic pathway scenarios (SSPs) (ii) to discern the influence of environmental factors, including land-cover, on suitable habitats of Colombian fish species and (iii) to project the possible future development of fish habitats and species richness. The main tools used for these analysis were land-cover modelling (with Dinamica EGO) and species distribution modelling (with BIOMOD).
