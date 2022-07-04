@@ -45,6 +45,8 @@ authors:
 
 The **Geomorphho90m** dataset
 
+__>> [Click here for the visualization](https://www.openlandmap.org/#/?base=Stamen%20%28OpenStreetMap%29&center=26.8842,38.4204&zoom=3.294688713147893&opacity=40&layer=dtm_roughness_merit.dem_m) <<__
+
 Topographical relief comprises the vertical and horizontal variations of the Earth’s terrain and drives processes in geomorphology, biogeography, climatology, hydrology and ecology. Its characterisation and assessment, through geomorphometry and feature extraction, is fundamental to numerous environmental modelling and simulation analyses. We developed the Geomorpho90m global dataset comprising of different geomorphometric features derived from the MERIT-Digital Elevation Model (DEM) - the best global, high-resolution DEM available. The fully-standardised 26 geomorphometric variables consist of layers that describe the (i) rate of change across the elevation gradient, using first and second derivatives, (ii) ruggedness, and (iii) geomorphological forms. The Geomorpho90m variables are available at 3 (~90 m) and 7.5 arc-second (~250 m) resolutions under the WGS84 geodetic datum, and 100 m spatial resolution under the Equi7 projection. They are useful for modelling applications in fields such as geomorphology, geology, hydrology, ecology and biogeography.
 
 Check out the paper in [_Scientific Data_](https://www.nature.com/articles/s41597-020-0479-6). The data can be downloaded [here](https://doi.pangaea.de/10.1594/PANGAEA.899135) and visualized [here](https://www.openlandmap.org/#/?base=Stamen%20%28OpenStreetMap%29&center=26.8842,38.4204&zoom=3.294688713147893&opacity=40&layer=dtm_roughness_merit.dem_m). 

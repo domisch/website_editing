@@ -9,7 +9,7 @@ authors:
   - R.N. Cuthbert
   - D.A. Ahmed
   - Antonín Kouba
-  - S.Domisch
+  - S. Domisch
   - J.R.G. Marquez
   - A. Beidas
   - G. Amatulli

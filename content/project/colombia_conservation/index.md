@@ -43,6 +43,7 @@ authors:
 
 ---
 
+__>> [Click here for the visualization](https://geo.igb-berlin.de/maps/290/view) <<__
 
 Colombia forms one of the global freshwater biodiversity hotspots, home to 1494 freshwater fish species. This exceptional fish fauna has, however, rarely been considered when selecting areas for biodiversity conservation. This study integrates freshwater fish distributions into a spatial prioritization exercise to assess to which extent (i) freshwater biodiversity, using fish as a proxy, is currently represented within the existing protected areas, and (ii) if alternative protected area networks may have the potential to increase the number of fish species under protection.
 

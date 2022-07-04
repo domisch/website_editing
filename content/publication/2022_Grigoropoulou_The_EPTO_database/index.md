@@ -33,7 +33,7 @@ authors:
   - D. Dudgeon
   - T.E. Eriksen
   - A. Justino Faria
-  - Maria João Feio
+  - M. João Feio
   - C. Fernández-Aláez
   - M. Floury
   - F. García-Criado
@@ -131,7 +131,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Map
-  url: https://geo.igb-berlin.de/maps/562/view
+  url: https://geo.igb-berlin.de/maps/609/view
 
 url_pdf: ''
 url_code: ''
