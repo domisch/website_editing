@@ -57,4 +57,6 @@ The Leibniz Junior Research Group emphasizes novel approaches in spatial freshwa
 
 {{% callout note %}}
 Check out our new global high-resolution [__Hydrography90m__ dataset](https://essd.copernicus.org/preprints/essd-2022-9/). The visualization can be found [here](https://geo.igb-berlin.de/maps/351/view) and the data can be downloaded [here](https://hydrography.org/hydrography90m/hydrography90m_layers/). Please get in touch for more details and if you're interested in environmental data across the network!
+
+[![Hydrography90m](/hydrograpyh90mgeonode.png)](https://hydrography.org/hydrography90m/hydrography90m_layers/)
 {{% /callout %}}
