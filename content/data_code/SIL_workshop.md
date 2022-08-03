@@ -9,6 +9,9 @@ menu:
 title: SIL workshop
 toc: false
 type: book
+
+# https://nimbus.igb-berlin.de/index.php/s/ctFm4ezsCRWRqG5
+# 
 ---
 
 __SIL spatial analyses workshop – Agenda for August 5, 2022__
@@ -25,10 +28,8 @@ __SIL spatial analyses workshop – Agenda for August 5, 2022__
 
 * Code and data repository: https://gitlab.com/mueblacker/SIL2022_spatial_analyses
 
-* Download the Linux virtual machine [here](https://nimbus.igb-berlin.de/index.php/s/ctFm4ezsCRWRqG5), and see the installation instructions [here](https://gitlab.com/mueblacker/SIL2022_spatial_analyses/-/tree/master/Setup_virtual_machine). 
+* Download the Linux virtual machine [here](https://drive.google.com/drive/folders/14Bgoi6ZXV47qv7WMoWon1Zsw9RDLAuZn), and see the installation instructions [here](https://gitlab.com/mueblacker/SIL2022_spatial_analyses/-/tree/master/Setup_virtual_machine). 
 <br/><br/>
-
-
 
 
 
