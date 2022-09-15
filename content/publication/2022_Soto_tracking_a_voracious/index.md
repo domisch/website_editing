@@ -1,5 +1,5 @@
 ---
-title: "Tracking a voracious killer: Dikerogammarus villosus invasion dynamics across Europe"
+title: "Tracking a killer shrimp: Dikerogammarus villosus invasion dynamics across Europe"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -24,8 +24,6 @@ __SIL spatial analyses workshop – Agenda for August 5, 2022__
 15:30-16:00    Wrap up <br/>
 
 
-* Zoom-link to connect to the workshop: https://yale.zoom.us/j/97014032622
-
 * Code and data repository: https://gitlab.com/mueblacker/SIL2022_spatial_analyses
 
 * Download the Linux virtual machine [here](https://nimbus.igb-berlin.de/index.php/s/27XEHwirmKB9TMb), and see the installation instructions [here](https://gitlab.com/mueblacker/SIL2022_spatial_analyses/-/tree/master/Setup_virtual_machine). 
