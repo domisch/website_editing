@@ -56,7 +56,7 @@ subtitle = "Leibniz Junior Research Group led by Sami Domisch"
 The Leibniz Junior Research Group emphasizes novel approaches in spatial freshwater biodiversity science, to gain a more detailed overview in the distribution of freshwater habitats, biodiversity patterns, and link these with conservation planning. [Read more...](/post)
 
 {{% callout note %}}
-Check out our new global high-resolution [__Hydrography90m__ dataset](https://essd.copernicus.org/preprints/essd-2022-9/). The visualization can be found [here](https://geo.igb-berlin.de/maps/351/view) and the data can be downloaded [here](https://hydrography.org/hydrography90m/hydrography90m_layers/). Please get in touch for more details and if you're interested in environmental data across the network!
+Check out our new global high-resolution [__Hydrography90m__ dataset](https://essd.copernicus.org/articles/14/4525/2022/). The visualization can be found [here](https://geo.igb-berlin.de/maps/351/view) and the data can be downloaded [here](https://hydrography.org/hydrography90m/hydrography90m_layers/). Please get in touch for more details and if you're interested in environmental data across the network!
 
 [![Hydrography90m](/hydrograpyh90mgeonode.png)](https://hydrography.org/hydrography90m/hydrography90m_layers/)
 {{% /callout %}}

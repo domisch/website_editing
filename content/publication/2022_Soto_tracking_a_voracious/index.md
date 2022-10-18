@@ -56,8 +56,8 @@ doi: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '_in review_'
-publication_short: '_in review_'
+publication: '_Diversity and Distributions, in press_'
+publication_short: '_Diversity and Distributions, in press_'
 
 abstract: 
 # Summary. An optional shortened abstract.
