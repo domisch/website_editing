@@ -1,49 +1,26 @@
 ---
-title: "Tracking a killer shrimp: Dikerogammarus villosus invasion dynamics across Europe"
+title: "A database of freshwater macroinvertebrate occurrence records across Cuba"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-  - I. Soto
-  - R.N. Cuthbert
-  - D.A. Ahmed
-  - Antonín Kouba
+  - Y. Torres-Cambas
+  - Y. S. Megna
+  - J.C. Salazar-Salina
+  - Y.L. Diez
+  - A. Catalá
+  - A.D. Trapero-Quintana
+  - B. Schröder-Esselbach
   - S. Domisch
-  - J.R.G. Marquez
-  - A. Beidas
-  - G. Amatulli
-  - J.Kiesel
-  - L.Q. Shen
-  - M. Florencio
-  - H. Lima
-  - E. Briski
-  - F. Altermatt
-  - G. Archambaud-Suard
-  - P. Borza
-  - Z. Csabai
-  - T. Datry
-  - M. Floury
-  - M. Forcellini
-  - J.-F. Fruget
-  - P. Leitner
-  - M.-H. Lizée
-  - A. Maire
-  - A. Ricciardi
-  - R.B. Schäfer
-  - R. Stubbington
-  - G.H. Van der Lee
-  - G. Várbíró
-  - R.C.M. Verdonschot
-  - P. Haase
-  - P.J. Haubrock
+
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-06-01'
+date: '2022-12-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -53,11 +30,11 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: '_Diversity and Distributions, in press_'
-publication_short: '_Diversity and Distributions, in press_'
+publication: '_in review_'
+publication_short: '_in review_'
 
 abstract: 
 # Summary. An optional shortened abstract.
@@ -69,9 +46,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Shiny
+  url: https://y-torres-cambas.shinyapps.io/fw_cu_dash/
 
 url_pdf: ''
 url_code: ''
