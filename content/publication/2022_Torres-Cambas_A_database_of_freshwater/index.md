@@ -33,8 +33,8 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: '_in review_'
-publication_short: '_in review_'
+publication: '_Scientific Data, in review_'
+publication_short: '_Scientific Data, in review_'
 
 abstract: 
 # Summary. An optional shortened abstract.
