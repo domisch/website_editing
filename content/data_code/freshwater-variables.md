@@ -5,7 +5,7 @@ linktitle: Freshwater variables
 menu:
   data_code:
     parent: Data & Code
-    weight: 10
+    weight: 20
 title: Freshwater-specific environmental variables
 toc: false
 type: book

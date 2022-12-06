@@ -5,7 +5,7 @@ linktitle: SIL workshop
 menu:
   data_code:
     parent: Data & Code
-    weight: 30
+    weight: 40
 title: SIL workshop
 toc: false
 type: book
