@@ -6,7 +6,7 @@ title: "A database of freshwater macroinvertebrate occurrence records across Cub
 # and it will be replaced with their full name and linked to their profile.
 authors: 
   - Y. Torres-Cambas
-  - Y. S. Megna
+  - Y.S. Megna
   - J.C. Salazar-Salina
   - Y.L. Diez
   - A. Catalá
