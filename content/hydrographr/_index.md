@@ -1,6 +1,6 @@
 ---
 title: The hydrographr R-package
-subtitle : "Scalable freshwater data processing tools in R"
+subtitle : "Scalable hydrographic data processing in R"
 cms_exclude: true
 
 # View.
@@ -21,6 +21,8 @@ _hydrographr_ provides functions to allow scalable hydrographical data extractio
 
 We will soon upload a vignette that showcases the functionality of _hydrographr_. In the meantime, feel free to explore the package and drop us a line [here](https://github.com/glowabio/hydrographr/issues) if you have any questions.
 
-We thank [NFDI4Biodiversity](https://www.nfdi4biodiversity.org) for providing the funding that helped us getting the _hydrographr_ package together! 
+We thank [NFDI4Biodiversity](https://www.nfdi4biodiversity.org) and [NFDI4Earth](https://www.nfdi4earth.de/) for providing the funding that helped us getting the _hydrographr_ package together! 
+
+!["NFDI"](/nfdi_logos.png)
 
 

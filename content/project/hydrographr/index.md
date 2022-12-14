@@ -1,6 +1,6 @@
 ---
 title: hydrographr
-summary: R-package for scalable data processing
+summary: Scalable hydrographic data processing in R
 tags:
 - Hydrography90m
 - R-package
