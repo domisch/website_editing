@@ -43,7 +43,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-11-01'
+date: '2023-01-01'
 doi: '10.1111/ddi.13649'
 
 # Schedule page publish date (NOT publication's date).
@@ -56,8 +56,8 @@ doi: '10.1111/ddi.13649'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '_Diversity and Distributions, in press_'
-publication_short: '_Diversity and Distributions, in press_'
+publication: '_Diversity and Distributions_, 29, 157-172'
+publication_short: '_Diversity and Distributions_, 29, 157-172'
 
 abstract: 
 # Summary. An optional shortened abstract.

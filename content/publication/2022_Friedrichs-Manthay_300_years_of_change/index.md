@@ -1,5 +1,5 @@
 ---
-title: "300 years of change for native fish species in the upper Danube River Basin – historical flow alterations versus future climate change"
+title: "Modelling 300 years of change for native fish species in the upper Danube River Basin – historical flow alterations versus future climate change"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -18,7 +18,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-07-01'
+date: '2023-02-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,8 +31,8 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: '_in revision_'
-publication_short: '_in revision_'
+publication: '_Diversity and Distributions, in review_'
+publication_short: '_Diversity and Distributions, in review_'
 
 abstract: 
 
