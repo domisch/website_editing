@@ -13,7 +13,7 @@ date: '2023-01-26T00:00:00Z'
 # external_link: 'https://github.com/glowabio/hydrographr'
 
 image:
-  caption: The hydrography R-package
+  caption: The hydrographr R-package
   focal_point: Smart
 
 links:
