@@ -7,7 +7,7 @@ tags:
 - Species distribution modeling
 - Uncertainty
 - Scaling
-date: '2022-05-27T00:00:00Z'
+date: '2023-01-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -41,16 +41,15 @@ authors:
 # global database:
 # https://geo.igb-berlin.de/maps/new?layer=geonode:EPTO_Global_EPTO_Database&view=True/embed
 
-
 ---
 
 
 
 
 {{% callout note %}}
-Our ETPO data paper has been accepted for publication in _Global Ecology and Biogeography_! Many thanks again to all co-authors and data providers for putting this together!
+Our EPTO data paper has been accepted for publication in _Global Ecology and Biogeography_! Many thanks again to all co-authors and data providers for putting this together!
 
-__>> [Click here to download the data](https://fred.igb-berlin.de/data/package/725) <<__ 
+__>> [Click here to download the data](https://doi.org/10.18728/igb-fred-811.0) <<__ 
 
 __>> [Click here for the visualization](https://geo.igb-berlin.de/maps/621/view) <<__
 {{% /callout %}}
@@ -60,7 +59,7 @@ Aquatic insects contribute to freshwater diversity by approximately 60% as the l
 
 -----
 
-We have collated, together with nearly 100 co-authors, a global database of Ephemeroptera, Plecoptera, Trichoptera and Odonata (EPTO) occurrences comprising more than 8 million records. The data can be downloaded [here](https://fred.igb-berlin.de/data/package/725) and visualized [here](https://geo.igb-berlin.de/maps/609/view). 
+We have collated, together with nearly 100 co-authors, a global database of Ephemeroptera, Plecoptera, Trichoptera and Odonata (EPTO) occurrences comprising more than 8 million records. The data can be downloaded [here](https://doi.org/10.18728/igb-fred-811.0) and visualized [here](https://geo.igb-berlin.de/maps/609/view). 
 
 
 The following map shows the number of occurrences and genera per site ([click here for the fullscreen map](https://geo.igb-berlin.de/maps/621/view)):
@@ -68,25 +67,16 @@ The following map shows the number of occurrences and genera per site ([click he
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://geo.igb-berlin.de/maps/621/embed" min-width : 900px ; style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="EPTO database" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
-<br/>
+<div style="text-align: right"> CC BY-NC 4.0 </div>
+<br/><br/>
 
 This map shows the density of records globally ([click here for the fullscreen map](https://geo.igb-berlin.de/maps/609/view)):
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://geo.igb-berlin.de/maps/609/embed" min-width : 900px ; style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="EPTO database" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
-
+<div style="text-align: right"> CC BY-NC 4.0 </div>
 
 
 
 
 -----
-
-Below is a summary of the database: the number of observation records (a) and genera (b) for all orders, aggregated in a 10 km regular grid.  Number of observation records (c) and genera (d) for all orders per drainage basin. Number of observation records (e) and genera (f) per drainage basin for each order individually. E: Ephemeroptera, P: Plecoptera, T: Trichoptera, O: Odonata. White and grey areas lack information. 
-
-!["Fig. 1"](/EPTO_Fig1.png)
-
-
-
-

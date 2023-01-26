@@ -1,19 +1,47 @@
 ---
 title: The hydrographr R-package
 subtitle : "Scalable hydrographic data processing in R"
-cms_exclude: true
+summary: Scalable hydrographic data processing in R
+tags:
+- Hydrography90m
+- R-package
+- Open-source
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 1
+date: '2023-01-26T00:00:00Z'
 
-date: "2022-12-06T00:00:00+02:00"
-type: "widget_page"
+# Optional external URL for project (replaces project detail page).
+# external_link: 'https://github.com/glowabio/hydrographr'
+
+image:
+  caption: The hydrography R-package
+  focal_point: Smart
+
+links:
+ - icon: github
+   icon_pack: fab
+   name: Get the R-package
+   url: https://github.com/glowabio/hydrographr
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
+
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+
+# authors:
+#  - maria-ueblacker
+#  - jaime-garcia-marquez
+#  - admin
+
 ---
 
-[!["hydrographr"](/hydrographr.png)](https://github.com/glowabio/hydrographr)
+<!--- [!["hydrographr"](/hydrographr.png)](https://github.com/glowabio/hydrographr) -->
 
 We have developed the _hydrographr_ R-Package that facilitates the download and data processing of the [Hydrography90m](https://hydrography.org/hydrography90m/hydrography90m_layers/) data (which can be visualized at the [IGB-GeoNode](https://geo.igb-berlin.de/maps/351/view)). The package is maintained at https://github.com/glowabio/hydrographr and the installation procedure is available [here](https://glowabio.github.io/hydrographr/articles/hydrographr.html). 
 

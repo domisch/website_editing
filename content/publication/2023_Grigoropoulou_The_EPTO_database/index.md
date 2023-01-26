@@ -116,8 +116,8 @@ doi: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '_Global Ecology and Biogeography, in review_'
-publication_short: '_Global Ecology and Biogeography, in review_'
+publication: '_Global Ecology and Biogeography, in press_'
+publication_short: '_Global Ecology and Biogeography, in press_'
 
 abstract: 
 # Summary. An optional shortened abstract.
