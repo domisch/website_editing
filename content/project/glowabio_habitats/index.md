@@ -1,5 +1,6 @@
 ---
 title: Freshwater habitat regionalization
+subtitle: "Clustering the world's freshwater habitats"
 summary: Clustering the world's freshwater habitats
 tags:
 - Clustering

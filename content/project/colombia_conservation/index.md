@@ -1,5 +1,6 @@
 ---
 title: Conservation planning across Colombia
+subtitle: "Priority areas for the freshwater fish fauna"
 summary: Priority areas for the freshwater fish fauna
 tags:
 - Freshwater biodiversity

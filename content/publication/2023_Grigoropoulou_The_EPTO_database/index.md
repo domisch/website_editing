@@ -135,7 +135,7 @@ links:
 
 url_pdf: ''
 url_code: ''
-url_dataset: 'https://fred.igb-berlin.de/data/package/725'
+url_dataset: 'https://doi.org/10.18728/igb-fred-811.0'
 url_poster: ''
 url_project: ''
 url_slides: ''

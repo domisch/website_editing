@@ -1,5 +1,6 @@
 ---
 title: EPTO database
+subtitle: "Global occurrences of Ephemeroptera, Plecoptera, Trichoptera, Odonata"
 summary: Global occurrences of Ephemeroptera, Plecoptera, Trichoptera, Odonata
 tags:
 - Freshwater biodiversity

@@ -1,5 +1,6 @@
 ---
 title: Protected areas in Cuba
+subtitle: "Protecting the future of freshwater biodiversity and ecosystem services across Cuba"
 summary: Protecting the future of freshwater biodiversity and ecosystem services across Cuba
 tags:
 - Freshwater biodiversity

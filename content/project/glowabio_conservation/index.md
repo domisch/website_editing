@@ -1,6 +1,7 @@
 ---
 title: Spatial conservation planning
-summary: Irreplaceability of biodiversity & habitats
+sub-title: "Irreplaceability of freshwater biodiversity & habitats"
+summary: Irreplaceability of freshwater biodiversity & habitats
 tags:
 - Conservation
 - Marxan

@@ -1,5 +1,6 @@
 ---
 title: SSP projections of landcover and fish 
+subtitle: "A workflow for downscaling SSP storylines and modelling fish distributions"
 summary: A workflow for downscaling SSP storylines and modelling fish distributions
 tags:
 - Freshwater biodiversity
