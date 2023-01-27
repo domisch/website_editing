@@ -113,7 +113,7 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: '_Global Ecology and Biogeography, in press_'
@@ -137,7 +137,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: 'https://doi.org/10.18728/igb-fred-811.0'
 url_poster: ''
-url_project: ''
+url_project: '/project/EPTO_database'
 url_slides: ''
 url_source: ''
 url_video: ''

@@ -36,7 +36,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2023-01-01'
-doi: ''
+doi: '10.1016/j.scitotenv.2023.161537'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -48,8 +48,8 @@ doi: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '_Science of the Total Environment, in press_'
-publication_short: '_Science of the Total Environment, in press_'
+publication: '_Science of the Total Environment_, 867, 161537, https://doi.org/10.1016/j.scitotenv.2023.161537'
+publication_short: '_Science of the Total Environment_, 867, 161537'
 
 abstract: 
 # Summary. An optional shortened abstract.
