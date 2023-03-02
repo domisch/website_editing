@@ -52,11 +52,12 @@ __Contact us__
 If you have any questions about this Privacy Policy and the Legal Notes, please contact us: 
 
 Dr. Sami Domisch  
-Leibniz Institute of Freshwater Ecology and Inland Fisheries  
-Department of Ecosystem Research  
-Justus-von-Liebig-Str. 7  
-D-12489 Berlin  
-Germany  
+Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
+in the Forschungsverbund Berlin e.V. <br/>
+Department of Community and Ecosystem Ecology <br/>
+Justus-von-Liebig-Str. 7  <br/>
+D-12489 Berlin  <br/>
+Germany  <br/>
 
-E-mail: domisch@igb-berlin.de  
+E-mail: sami.domisch@igb-berlin.de  
 Phone: +49 (0) 30 6392 4079  
