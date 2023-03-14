@@ -48,7 +48,9 @@ authors:
 
 
 {{% callout note %}}
-Our EPTO data paper has been accepted for publication in _Global Ecology and Biogeography_! Many thanks again to all co-authors and data providers for putting this together!
+Our EPTO data paper has been published in _Global Ecology and Biogeography_ ! Many thanks again to all co-authors and data providers for putting this together!
+
+__>> [Click here to read the publication](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13648) <<__
 
 __>> [Click here to download the data](https://doi.org/10.18728/igb-fred-811.0) <<__ 
 

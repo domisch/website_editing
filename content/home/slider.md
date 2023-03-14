@@ -39,8 +39,8 @@ content:
       link:
         icon:
         icon_pack: fab
-        text: Browse the data here
-        url: 'https://geo.igb-berlin.de/maps/621/view'
+        text: Read the paper
+        url: '/project/epto_database/'
     - title: hydrographr
       content: Scalable hydrographic data processing in R
       align: center
