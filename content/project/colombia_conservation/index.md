@@ -44,7 +44,15 @@ authors:
 
 ---
 
-__>> [Click here for the visualization](https://geo.igb-berlin.de/maps/290/view) <<__
+
+
+{{% callout note %}}
+See the online map of the fish prioritization maps across Colombia:
+
+__>> [Click here for the visualization](https://geo.igb-berlin.de/maps/992/view#) <<__
+{{% /callout %}}
+
+
 
 Colombia forms one of the global freshwater biodiversity hotspots, home to 1494 freshwater fish species. This exceptional fish fauna has, however, rarely been considered when selecting areas for biodiversity conservation. This study integrates freshwater fish distributions into a spatial prioritization exercise to assess to which extent (i) freshwater biodiversity, using fish as a proxy, is currently represented within the existing protected areas, and (ii) if alternative protected area networks may have the potential to increase the number of fish species under protection.
 
@@ -61,7 +69,7 @@ The projected suitable habitats of freshwater fish show high species richness in
 _Stacking the individual fish predictions gives an estimate of species richness (low: purple, high:yellow), where red points represent the fish sampling occurences:_
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://geo.igb-berlin.de/maps/290/embed" min-width : 900px ; style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Fish richness" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://geo.igb-berlin.de/maps/992/embed" min-width : 900px ; style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Fish richness" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <br/>

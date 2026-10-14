@@ -7,7 +7,7 @@ tags:
 - R-package
 - Open-source
 
-date: '2023-01-26T00:00:00Z'
+date: '2023-06-05T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://github.com/glowabio/hydrographr'
@@ -43,7 +43,7 @@ links:
 
 <!--- [!["hydrographr"](/hydrographr.png)](https://github.com/glowabio/hydrographr) -->
 
-We have developed the _hydrographr_ R-Package that facilitates the download and data processing of the [Hydrography90m](https://hydrography.org/hydrography90m/hydrography90m_layers/) data (which can be visualized at the [IGB-GeoNode](https://geo.igb-berlin.de/maps/351/view)). The package is maintained at https://github.com/glowabio/hydrographr and the installation procedure is available [here](https://glowabio.github.io/hydrographr/articles/hydrographr.html). 
+We have developed the _hydrographr_ R-Package that facilitates the download and data processing of the [Hydrography90m](https://hydrography.org/hydrography90m/hydrography90m_layers/) data (which can be visualized at the [IGB-GeoNode](https://geo.igb-berlin.de/maps/351/view)). The package is maintained at https://github.com/glowabio/hydrographr, the installation procedure is available [here](https://glowabio.github.io/hydrographr/articles/hydrographr.html), and the publication in _Methods in Ecology and Evolution_ can be found [here](https://doi.org/10.1111/2041-210X.14226). 
 
 _hydrographr_ provides functions to allow scalable hydrographical data extraction and analysis workflows. The R-functions are wrappers around the open-source geospatial GDAL and GRASS-GIS software that run in the Linux environment and enable fast and memory-efficient data processing.
 

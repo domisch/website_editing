@@ -20,6 +20,7 @@ banner:
 Here is a collection of code and tutorials for spatial analyses in freshwater ecosystems, and we will be gradually adding more: 
 
 - [Check out our R-package _hydrographr_](/project/hydrographr)
+- [The GeoFRESH portal supports the freshwater geospatial data processing](/data_code/geofresh)
 - [The Hydrography90m network](https://hydrography.org/hydrography90m/hydrography90m_layers/)
 - [Create freshwater-specific environmental variables](/data_code/freshwater-variables)
 - [How to move point records to a stream network and extract the values](/data_code/extract-variables)

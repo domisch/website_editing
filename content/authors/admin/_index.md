@@ -6,7 +6,7 @@ title: Dr. Sami Domisch
 superuser: true
 
 # Role/position
-role: Junior Research Group Leader 
+role: Research Group Leader 
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
@@ -35,6 +35,9 @@ education:
   - course: BSc in Biology (Vordiplom)
     institution: University Kaiserlautern, Germany
     year: 2001-2005
+  - course: Higher school certificate (Abitur)
+    institution: Deutsche Schule Helsinki, Finland
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -69,24 +72,30 @@ user_groups:
 ---
 
 
-Sami Domisch is a Leibniz Junior Research Group Leader at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/profile/sami-domisch). Sami is interested in freshwater biodiversity with an emphasis on spatial biodiversity patterns, macroecology, and developing tools to assess freshwater biodiversity across large spatial scales. 
+Sami Domisch is a Research Group Leader at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/profile/sami-domisch). Sami is interested in freshwater biodiversity with an emphasis on spatial biodiversity patterns, macroecology, and developing tools to assess freshwater biodiversity across large spatial scales. 
 
 The group uses a wide array of open-source tools for spatial biodiversity informatics such as R, GRASS, GDAL/OGR, pktools, OpenForis within the Linux environment.
 
 ---
 
 ##### __Career__ <br/>
-- since 2019 - Leibniz Junior Research Group Leader at Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
-- 2016-2019 - Leibniz Institute of Freshwater Ecology and Inland Fisheries (Postdoc)  <br/>
+- since 2024 - Research Group Leader at Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB) <br/>
+- 2019-2024 - Leibniz Junior Research Group Leader at IGB <br/>
+- 2016-2019 - Postdoc at IGB <br/>
 - 2013-2016 - Yale University, USA (Postdoctoral associate and DFG postdoctoral fellow)  <br/>
 - 2012-2013 - Biodiversity and Climate Research Centre (BiK-F), Frankfurt, Germany (Postdoc)  <br/>
 
 ---
 
 ##### __Funding and awards__ <br/>
+- DFG: Assessing the role of the hydrographic network structure and connectivity on the South American freshwater fish diversity
+- NFDI4Earth Pilot project (DFG): Connecting rivers and lakes FAIRly
+- Alexander von Humboldt Foundation: host for Dr. Emmanuel Akindeles grant “Spatial freshwater biodiversity modelling as a tool to assess distribution patterns of freshwater macroinvertebrates in Nigeria’s biodiversity hotspots ” (Ref 3.4-1199118-NGA-GF-E)
+- Horizon Europe: AquaINFRA - Restoring our oceans, seas, coastal and inland waters, WP-lead (101094434)
+- NFDI4Biodiversity Flexfunds: The hydrographr R-package
 - Horizon Europe: Water Resources System Safe Operating Space in a Changing Climate and Society, Co-PI (101059264)
-- NFDI Pilot project (DFG): Getting freshwater spatiotemporal data on track
-- Alexander von Humboldt Foundation: Co-host for Dr. Torres-Cambas' grant “Protecting the future of freshwater biodiversity and ecosystem services across Cuba” (Ref 3.2 - 1212347 - CUB - GF-P)
+- NFDI4Earth Pilot project (DFG): Getting freshwater spatiotemporal data on track
+- Alexander von Humboldt Foundation: Co-host for Dr. Torres-Cambas' grant “Protecting the future of freshwater biodiversity and ecosystem services across Cuba” (Ref 3.2-1212347-CUB-GF-P)
 - Leibniz Association and IGB: Leibniz Junior Research Group "Global freshwater biodiversity, biogeography and conservation (GLOWABIO)" (J45/2018), started in 2019 <br/>
 - German Research Foundation (DFG): Co-PI for grant 'Himalopsyche/QTP Region' (DO 1880_3-2) <br/>
 - Federal Ministry of Education and Research (BMBF): Co-authored the proposal for grant 'WANDEL' (GROW-937-3583-018; Co-PIs: S. Jähnig, M. Pusch)
@@ -96,19 +105,22 @@ The group uses a wide array of open-source tools for spatial biodiversity inform
 --- 
  
 ##### __Reviewer activities__ <br/>
-- Associate Editor of [_Journal of Biogeography_](https://onlinelibrary.wiley.com/journal/13652699) (since 2022) <br/>
-- Member of Editorial Board of [_Scientific Data_](https://www.nature.com/sdata/) (since 2022)
+- Member of Editorial Board of [_Scientific Data_](https://www.nature.com/sdata/) (2022-2025) <br/>
+- Associate Editor of [_Journal of Biogeography_](https://onlinelibrary.wiley.com/journal/13652699) (2022-2023) <br/>
 - Member of Editorial Advisory Board of [_Limnologica_](https://www.sciencedirect.com/journal/limnologica) (since 2014) and [_Global Change Biology_](https://onlinelibrary.wiley.com/journal/13652486) (2014-2017) <br/>
 <br/>
 
 - Contributing author in [Working Group II (Impacts, Adaptation, Vulnerability) of the IPCC Sixth Assessment Report](https://www.ipcc.ch/report/ar6/wg2/), Chapter 2 on "Terrestrial and Freshwater Ecosystems and their Services" <br/><br/>
 
-- __Funding agencies:__ Natural Sciences and Engineering Research Council of Canada (NSERC), German Centre for Integrative Biodiversity Research (iDiv), GO-IN-Goethe International Post-Doc Programme (Goethe Universität Frankfurt, Germany), National Research Foundation of South Africa, Dutch Research Council <br/><br/>
+- __Funding agencies:__ Natural Sciences and Engineering Research Council of Canada (NSERC), German Centre for Integrative Biodiversity Research (iDiv), GO-IN-Goethe International Post-Doc Programme (Goethe Universität Frankfurt, Germany), National Research Foundation of South Africa, Dutch Research Council, German Research Foundation (DFG) <br/><br/>
 
 - __Journal referee:__ _Aquatic Sciences, Biological Conservation, Biology Letters, Biological Invasions, Diversity & Distributions, Ecography, Ecohydrology, Ecological Applications, Ecological Engineering, Ecological Indicators, Ecological Modelling, Freshwater Biology, Freshwater Science, Fundamental and Applied Limnology (Guest Editor), Global Change Biology (Advisory Board member 2013-2017), Global Ecology and Conservation, Hydrobiologia, Integrative Zoology, Journal of Applied Ecology, Journal of Biogeography, Journal of Environmental Management, Knowledge and Management of Aquatic Ecosystems, Landscape Ecology, Limnetica, Limnologica, Marine Ecology Progress Series, Methods in Ecology & Evolution, Scientific Data, Scientific Reports, PLoS ONE, The Science of Nature, WIREs Climate Change_ <br/>
 
 
-
-
+##### __Scientific service__ <br/>
+- Ombudsperson at IGB
+- Steering committee member of the CTP "Research Data Management" at IGB
+- Member of the IT-commission at IGB
+- Co-Speaker of the Programme Area "Predictive Ecology" at IGB
 
 ---

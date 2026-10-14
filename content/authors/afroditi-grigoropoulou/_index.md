@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: Postdoc
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
@@ -66,11 +66,12 @@ user_groups:
 ---
 
 
-Afroditi Grigoropoulou is a PhD student at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). She is working on global patterns of freshwater macroinvertebrate diversity across multiple spatial scales.
+Afroditi Grigoropoulou is a Postdoc at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). She is working within the [AquaINFRA project](https://aquainfra.eu/), developing new tools for spatial freshwater biodiversity analyses. 
 ---
 
 ##### __Career__ <br/>
-- since 2020 - PhD student at Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
+- since 2025  Postdoc at Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)
+- 2020-2024   Doctoral student at IGB <br/>
 - 2018-2019 - Department of Evolutionary Biology, Ecology and Environmental Science, University of Barcelona (MSc)  <br/>
 - 2013-2017 - Faculty of Biology, University of Athens (BSc) <br/>
 

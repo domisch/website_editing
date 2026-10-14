@@ -15,6 +15,19 @@ design:
 
 content:
   slides:
+    - title: European freshwater biodiversity
+      content: The recovery of European freshwater biodiversity has come to a halt
+      align: center
+      background: 
+        position: center
+        color: '#666'  # white is '#666'    #000  #000000
+        brightness: 0.5
+        media: '/Senckenberg_PM_20230809_Süßgewässer_2.png'
+      link:
+        icon:
+        icon_pack: fab
+        text: Read the paper here
+        url: 'https://doi.org/10.1038/s41586-023-06400-1'
     - title: New hydrographic network
       content: Hydrography90m - A new high-resolution global hydrographic dataset
       align: center

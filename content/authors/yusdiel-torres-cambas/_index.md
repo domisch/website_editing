@@ -10,13 +10,13 @@ authors:
 superuser: false
 
 # Role/position
-role: Alexander von Humboldt postdoc fellow
+role: Postdoc
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
   url: "https://www.igb-berlin.de" 
-- name: Institute of Geoecology, TU Braunschweig
-  url: "https://www.tu-braunschweig.de/en/geooekologie"
+#- name: Institute of Geoecology, TU Braunschweig
+#  url: "https://www.tu-braunschweig.de/en/geooekologie"
 
 
 
@@ -66,17 +66,18 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Previous members & visitors
-# - " " # Current team
+#- Previous members & visitors
+- " " # Current team
 ---
 
 
-Dr. Yusdiel Torres Cambas is a postdoc at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/) and at the [Institute of Geoecology, TU Braunschweig]("https://www.tu-braunschweig.de/en/geooekologie"). He is working to assess the protection offered by the Cuban protected area system to freshwater biodiversity and to the supply of freshwater ecosystem services, considering the present conditions and future climate and land use/land cover change scenarios.
+Dr. Yusdiel Torres Cambas is a postdoc at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). He is assessing the protection offered by the Cuban protected area system to freshwater biodiversity and to the supply of freshwater ecosystem services, considering the present conditions and future climate and land use/land cover change scenarios.
 
 ---
 
 ##### __Career__ <br/>
-- since 2021 - Leibniz Institute of Freshwater Ecology and Inland Fisheries and Institute of Geoecology, TU Braunschweig (Postdoc)<br/>
+- since 2023 - Postdoc at IGB
+- 2021-2023 - Alexander von Humboldt Fellow at the IGB and Institute of Geoecology, TU Braunschweig (Postdoc)<br/>
 - 2006-2020 - Department of Biology, Universidad de Oriente (Lecturer)  <br/>
 
 --- 

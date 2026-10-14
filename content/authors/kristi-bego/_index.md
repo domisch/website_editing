@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Guest Researcher
+role: Doctoral student
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
@@ -60,18 +60,19 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Previous members & visitors
-# - " " # Current team
+ - " " # Current team
+ # - Previous members & visitors
 ---
 
 
-Kristi Bego is a Guest Researcher at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Kristi graduated in Environmental Biology and is conducting a research project funded by the Deutsche Bundesstiftung Umwelt, under the MOE Fellowship Program. The topic of his project is "Importance of Water Body conservation in maintaining local amphibian population diversity".
+Kristi Bego is a doctoral student at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). In his thesis, Kristi analyses the spatial patterns in species and functional diversity of amphibians in the Western Balkan region.
 
 
 ---
 
 ##### __Career__ <br/>
-- 2022-Present - Deutsche Bundesstiftung Umwelt-MOE Fellowship Program (Guest Researcher)
+- 2024-present - Doctoral student at IGB, funded by the Deutscher Akademischer Austauschdienst (DAAD)
+- 2022-2023 - Deutsche Bundesstiftung Umwelt-MOE Fellowship Program (Guest Researcher)
 - 2020-2022 - University of Tirana, Facculty of History and Philology(Lecturer)  <br/>
 - 2019-2022 - Prime Ministry of Albania, Directory of Government Services (Specialist for Park Management and Event Organization)  <br/>
  

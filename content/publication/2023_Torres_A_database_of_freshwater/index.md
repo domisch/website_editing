@@ -20,8 +20,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-02-01'
-doi: ''
+date: '2023-06-01'
+doi: '10.1038/s41597-023-02088-0'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -30,11 +30,11 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '_Scientific Data, in review_'
-publication_short: '_Scientific Data, in review_'
+publication: '_Scientific Data_, 10, 169'
+publication_short: '_Scientific Data_, 10, 169'
 
 abstract: 
 # Summary. An optional shortened abstract.
@@ -47,8 +47,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Shiny
+- name: Shiny visualization
   url: https://y-torres-cambas.shinyapps.io/fw_cu_dash/
+- name: Data
+  url: https://doi.org/10.18728/igb-fred-778.3
 
 url_pdf: ''
 url_code: ''
@@ -72,7 +74,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  # - example
+   - cuba_biodiversity
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

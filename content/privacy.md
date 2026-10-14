@@ -11,7 +11,7 @@ Effective date: August 02, 2019
 
 This site provides information regarding the Privacy Policy and Legal Notes in compliance with § 6 TDG ("Telemediengesetz").
 
-The Leibniz Junior Research Group (Leibniz Competition grant number J45/2018), also named "us", "we", or "our" in this Privacy Policy, operates the https://glowabio.org website.
+The Research Group "Global Freshwater Biodiversity, Biogeography & Conservation", also named "us", "we", or "our" in this Privacy Policy, operates the https://glowabio.org website.
 
 We want to inform you of our policies regarding the use of personal data when you visit our website and the choices you have associated with that data. All data on this website are processed based on the current laws and regulations (General Data Protection Regulation; GDPR).
 
@@ -55,8 +55,8 @@ Dr. Sami Domisch
 Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
 in the Forschungsverbund Berlin e.V. <br/>
 Department of Community and Ecosystem Ecology <br/>
-Justus-von-Liebig-Str. 7  <br/>
-D-12489 Berlin  <br/>
+Müggelseedamm 310 <br/>
+D-12587 Berlin  <br/>
 Germany  <br/>
 
 E-mail: sami.domisch@igb-berlin.de  

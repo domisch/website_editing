@@ -14,7 +14,7 @@ date: '2023-01-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: _Platycnemis pennipes_ (Pallas, 1771) (&copy; S. Domisch)
+  caption: _Lestes sponsa_ (Hansemann, 1823) (&copy; S. Domisch)
   focal_point: Smart
 
 # links:
@@ -52,7 +52,7 @@ Our EPTO data paper has been published in _Global Ecology and Biogeography_ ! Ma
 
 __>> [Click here to read the publication](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13648) <<__
 
-__>> [Click here to download the data](https://doi.org/10.18728/igb-fred-811.0) <<__ 
+__>> [Click here to download the data](https://doi.org/10.18728/igb-fred-837.4) <<__ 
 
 __>> [Click here for the visualization](https://geo.igb-berlin.de/maps/621/view) <<__
 {{% /callout %}}

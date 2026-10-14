@@ -45,7 +45,9 @@ authors:
 
 Thesis topic: _Influence of land-cover on suitable fish habitats in Colombia’s inland waters considering the "Shared Socioeconomic Pathway (SSP)" scenarios_
 
-__>> [Click here for the visualization](https://geo.igb-berlin.de/maps/626/view) <<__
+
+__>> [Dowload the publication as a pdf](/pdf/Brunner_etal_2023_Limnologica_accepted.pdf) <<__ <br/>
+__>> [Click here for the visualization](https://geo.igb-berlin.de/maps/681/view) <<__
 
 Freshwater ecosystems are becoming increasingly degraded and freshwater species diversity is declining drastically. Anthropological influences, such as land-cover change, play an important role in these processes. In Latin America, freshwater fish show high rates of diversity and endemism. At the same time, ecosystems in Latin America are threatened by high rates of land-cover change. Therefore, Colombia, endowed with a great habitat diversity and species richness due to a combination of altitude, climate and geographic location, but also distinct land-cover dynamics, was chosen as a case study for this work.
 
@@ -58,7 +60,7 @@ The analysis of past land-cover changes shows that factors such as demand or pol
 _The projected landcover change for a larger window of Colombia until 2070 following the SSP1 storyline:_
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://geo.igb-berlin.de/maps/626/embed" min-width : 900px ; style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Landcover change" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://geo.igb-berlin.de/maps/681/embed" min-width : 900px ; style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Landcover change" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <br/>

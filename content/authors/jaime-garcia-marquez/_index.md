@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: GIS and Data Analyst
+role: Postdoc
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:marquez@igb-berlin.de  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:jaime.marquez@igb-berlin.de  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4MTbRS_CtZak5NvulHQnTUR5CtP3wuLcWd9TTfd0Ex0iizcDu6nrRrtC0VTJ3Haf185goHaNBhuQHANrJJsC_RCBm1pw&user=NZIC7dsAAAAJ
@@ -69,13 +69,14 @@ user_groups:
 ---
 
 
-Jaime Garcia Marquez is a GIS and Data Analyst at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Jaime has a long expertise on the use of ecological spatial methods which he has applied in research and consulting on biodiversity and ecosystem services conservation and landscape planning.
+Jaime Garcia Marquez is a Postdoc at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Jaime has a long expertise on the use of ecological spatial methods which he has applied in research and consulting on biodiversity and ecosystem services conservation and landscape planning. He is now working on spatial modelling approaches towards identifying a safe operating space of water ressources within the [Horizon Europe project "SOS-Water"](https://sos-water.eu/).
 
 
 ---
 
 ##### __Career__ <br/>
-- since 2019 - GIS and Data Analyst at Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
+- since 2023 - Postdoc in the Horizon Europe "SOS-Water" project <br/>
+- 2019-2023 - GIS and Data Analyst at Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
 - 2018-2019 - Geography Department, Humboldt Universit&auml;t zu Berlin (Postdoc)  <br/>
 - 2014-2018 - Integrative Research Institute on Transformations of Human-Environment Systems (IRI THESys), Humboldt Universit&auml;t zu Berlin (Postdoc)  <br/>
 - 2011-2013 - Environmental Consultant

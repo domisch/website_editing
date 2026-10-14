@@ -202,6 +202,70 @@
     </item>
     
     <item>
+      <title>GeoFRESH</title>
+      <link>https://glowabio.org/data_code/geofresh/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>https://glowabio.org/data_code/geofresh/</guid>
+      <description>&lt;p&gt;GeoFRESH is a platform that helps freshwater researchers to process point data across the global river network by providing a set of spatial tools. Head over to &lt;a href=&#34;http://geofresh.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://geofresh.org/&lt;/a&gt; to check it out!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://geofresh.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;amp;ldquo;GeoFRESH&amp;amp;rdquo;&#34; srcset=&#34;
+               /media/geofresh_logo_hu512682383adc8444fdc8c4e0c1c84c89_47218_09595c839c08e0a46cd041c760b21bd9.webp 400w,
+               /media/geofresh_logo_hu512682383adc8444fdc8c4e0c1c84c89_47218_7f5e788a9acc79dfd989201e6e175b1d.webp 760w,
+               /media/geofresh_logo_hu512682383adc8444fdc8c4e0c1c84c89_47218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://glowabio.org/media/geofresh_logo_hu512682383adc8444fdc8c4e0c1c84c89_47218_09595c839c08e0a46cd041c760b21bd9.webp&#34;
+               width=&#34;400&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IGB workshop</title>
+      <link>https://glowabio.org/data_code/igb_workshop/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>https://glowabio.org/data_code/igb_workshop/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;IGB workshop: &lt;em&gt;hydrographr&lt;/em&gt; R-package – Agenda for April 21, 2023&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(short breaks each hour)&lt;/p&gt;
+&lt;p&gt;10:00 - 10:15     Hydrography90m &amp;amp; installation of R-libraries / data download &lt;br/&gt;
+10:15 - 10:30     Introduction into &lt;em&gt;hydrographr&lt;/em&gt; functions  &lt;br/&gt;
+10:30 - 12:00     &lt;a href=&#34;https://glowabio.github.io/hydrographr/articles/case_study_cuba.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workflow #1&lt;/a&gt; &lt;br/&gt;
+12:00 - 13:00     Lunch break &lt;br/&gt;
+13:00 - 14:00     &lt;a href=&#34;https://glowabio.github.io/hydrographr/articles/case_study_brazil.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workflow #2&lt;/a&gt; &lt;br/&gt;
+14:00 - 16:00     Own data &lt;br/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://glowabio.github.io/hydrographr/articles/hydrographr.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Installation of the open-source GIS software used in the &lt;em&gt;hydrography&lt;/em&gt;-package&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/glowabio/hydrographr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;hydrographr&lt;/em&gt; Github repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/-/snippets/2528967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the workshop data&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Open-source GIS</title>
       <link>https://glowabio.org/data_code/open-source-gis/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>

@@ -36,8 +36,8 @@ __Contact information:__
 Dr. Sami Domisch  
 Leibniz Institute of Freshwater Ecology and Inland Fisheries  
 Department of Community and Ecosystem Ecology <br/>
-Justus-von-Liebig-Str. 7  
-D-12489 Berlin  
+Müggelseedamm 301  
+D-12587 Berlin  
 Germany  
 
 E-mail: sami.domisch@igb-berlin.de  

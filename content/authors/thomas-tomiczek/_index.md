@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher
+role: Doctoral student
 # Organizations/Affiliations
 organizations: 
 - name: Leibniz Institute of Freshwater Ecology and Inland Fisheries 
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tomiczek@igb-berlin.de  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:thomas.tomiczek@igb-berlin.de  # For a direct email link, use "mailto:test@example.org".
 # - icon: google-scholar
 # icon_pack: ai
 # link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4MTbRS_CtZak5NvulHQnTUR5CtP3wuLcWd9TTfd0Ex0iizcDu6nrRrtC0VTJ3Haf185goHaNBhuQHANrJJsC_RCBm1pw&user=NZIC7dsAAAAJ
@@ -60,16 +60,18 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Previous members & visitors
+- " " # Current team
 ---
 
 
-Thomas Tomiczek is a Master student from the Humboldt University working on his Master thesis at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). His thesis addresses integrating freshwater biodiversity in large scale conservation planning in Colombia. 
+Thomas Tomiczek is a doctoral student at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Thomas is focusing on the spaial patterns of fish diversity and its contingencies on the stream network structure across South America.  
 
 ---
 
 ##### __Career__ <br/>
-- since 2020 - Master thesis at Leibniz Institute of Freshwater Ecology and Inland Fisheries <br/>
+- 2023 - present - Doctoral student at IGB, funded through DFG <br/>
+- 2022-2024 - Research associate at IGB, NFDI/DFG-funded <br/>
+- 2020-2021 - Master thesis at IGB <br/>
 - 2018-2018 - WWF - World Wide Fund For Nature, Berlin (Internship) <br/>
 - 2015-2015 - Dutch Ministry of Infrastructure and Environment, The Hague, Netherlands (Internship) <br/>
 - 2013-2013 - Bachelor thesis at Helmholtz Institute, Centre for Environmental Research, Leipzig, Germany  <br/>

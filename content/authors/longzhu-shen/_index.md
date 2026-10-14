@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Visitors
+- Previous members & visitors
 ---
 
 Dr. Longzhu Shen is a GIS modeller at the [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en/). Dr. Shen's technical background was quantum chemistry with broad applications, especially in areas related to ecology, environment and public health. After Ph.D. training, he migrated further into machine learning oriented modellings and often crafted unique solutions via coupling the physical principles and data-driven approaches. He has built predictive models to estimate the distributions of nitrogen and phosphorus in their various forms in the streams around the globe.   

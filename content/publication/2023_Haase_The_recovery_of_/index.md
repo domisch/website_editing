@@ -77,7 +77,7 @@ authors:
   - F.J. Peñas
   - F. Pilotto
   - M. Polášek
-  - J. Jessen Rasmussen
+  - J. Rasmussen
   - M. Rubio
   - D. Sánchez-Fernández
   - L. Sandin
@@ -91,7 +91,7 @@ authors:
   - V.G. Tyufekchieva
   - I. Tziortzis
   - Y. Uzunov
-  - G:H. van der Lee
+  - G.H. van der Lee
   - R. Vannevel
   - E. Varadinova
   - G. Várbíró
@@ -107,8 +107,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-02-01'
-doi: ''
+date: '2023-08-01'
+doi: '10.1038/s41586-023-06400-1'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -117,15 +117,13 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '_in review_'
-publication_short: '_in review_'
+publication: '_Nature_, 620, 582–588'
+publication_short: '_Nature_, 620, 582–588'
 
-abstract: 
-# Summary. An optional shortened abstract.
-# summary: We identify 15 pressing priority needs, grouped into five research areas, in an effort to support informed stewardship of freshwater biodiversity.
+abstract: Owing to a long history of anthropogenic pressures, freshwater ecosystems are among the most vulnerable to biodiversity loss1. Mitigation measures, including wastewater treatment and hydromorphological restoration, have aimed to improve environmental quality and foster the recovery of freshwater biodiversity2. Here, using 1,816 time series of freshwater invertebrate communities collected across 22 European countries between 1968 and 2020, we quantified temporal trends in taxonomic and functional diversity and their responses to environmental pressures and gradients. We observed overall increases in taxon richness (0.73% per year), functional richness (2.4% per year) and abundance (1.17% per year). However, these increases primarily occurred before the 2010s, and have since plateaued. Freshwater communities downstream of dams, urban areas and cropland were less likely to experience recovery. Communities at sites with faster rates of warming had fewer gains in taxon richness, functional richness and abundance. Although biodiversity gains in the 1990s and 2000s probably reflect the effectiveness of water-quality improvements and restoration projects, the decelerating trajectory in the 2010s suggests that the current measures offer diminishing returns. Given new and persistent pressures on freshwater ecosystems, including emerging pollutants, climate change and the spread of invasive species, we call for additional mitigation to revive the recovery of freshwater biodiversity.
 
 tags: []
 
@@ -133,9 +131,10 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Nature news & views
+  url: https://doi.org/10.1038/d41586-023-02488-7
+
 
 url_pdf: ''
 url_code: ''

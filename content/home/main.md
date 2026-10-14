@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Freshwater biodiversity, biogeography & conservation"
-subtitle = "Leibniz Junior Research Group led by Sami Domisch"
+subtitle = "Research Group led by Sami Domisch"
 
 
 [design]
@@ -53,12 +53,12 @@ subtitle = "Leibniz Junior Research Group led by Sami Domisch"
 
 +++
 
-The Leibniz Junior Research Group emphasizes novel approaches in spatial freshwater biodiversity science, to gain a more detailed overview in the distribution of freshwater habitats, biodiversity patterns, and link these with conservation planning. [Read more...](/about)
+The Research Group emphasizes novel approaches in spatial freshwater biodiversity science, to gain a more detailed overview in the distribution of freshwater habitats, biodiversity patterns, and link these with conservation planning. [Read more...](/about)
 
 {{% callout note %}}
-Check out our new global high-resolution [__Hydrography90m__ dataset](https://essd.copernicus.org/articles/14/4525/2022/). The visualization can be found [here](https://geo.igb-berlin.de/maps/351/view) and the data can be downloaded [here](https://hydrography.org/hydrography90m/hydrography90m_layers/). Please get in touch for more details and if you're interested in environmental data across the network!
+Check out our global high-resolution [__Hydrography90m__ dataset](https://essd.copernicus.org/articles/14/4525/2022/). The visualization can be found [here](https://geo.igb-berlin.de/maps/351/view) and the data can be downloaded [here](https://hydrography.org/hydrography90m/hydrography90m_layers/). Please get in touch for more details and if you're interested in environmental data across the network.
 
-We have also developed the [___R-package hydrographr___](/project/hydrographr) to facilitate the data processing - check it out!
+We have also published the [___hydrographr R-package___](https://github.com/glowabio/hydrographr) to facilitate the data processing - check out the [paper in _Methods in Ecology and Evolution_](https://doi.org/10.1111/2041-210X.14226).
 
 [![Hydrography90m](/hydrograpyh90mInsets.png)](https://hydrography.org/hydrography90m/hydrography90m_layers/)
 {{% /callout %}}
